@@ -1,0 +1,2505 @@
+match_id,team_1,team_2,team_1_runs,team_2_runs,winner
+64814,New Zealand,India,254,219,New Zealand
+64815,India,New Zealand,108,109,New Zealand
+64816,India,New Zealand,122,123,New Zealand
+64817,New Zealand,India,168,169,India
+64819,India,New Zealand,122,125,New Zealand
+64820,Australia,West Indies,270,205,Australia
+64825,Australia,West Indies,252,254,West Indies
+64826,Australia,West Indies,247,249,West Indies
+64827,Sri Lanka,West Indies,201,146,Sri Lanka
+64829,Sri Lanka,West Indies,191,160,Sri Lanka
+64830,Bangladesh,Australia,105,107,Australia
+64831,Bangladesh,Australia,147,148,Australia
+64832,Australia,Bangladesh,254,142,Australia
+64833,Pakistan,Bangladesh,323,186,Pakistan
+64836,Bangladesh,Pakistan,222,226,Pakistan
+64837,Pakistan,Bangladesh,302,244,Pakistan
+64838,Pakistan,South Africa,277,269,Pakistan
+64839,Pakistan,South Africa,267,225,Pakistan
+64840,Pakistan,South Africa,243,221,Pakistan
+64841,Pakistan,South Africa,157,158,South Africa
+64842,Pakistan,South Africa,192,193,South Africa
+64843,Bangladesh,England,143,144,England
+64844,Bangladesh,England,134,137,England
+64845,Bangladesh,England,182,185,England
+64846,England,Sri Lanka,88,89,Sri Lanka
+64848,West Indies,Zimbabwe,125,128,Zimbabwe
+64849,Zimbabwe,West Indies,229,208,Zimbabwe
+64850,New Zealand,Pakistan,291,292,Pakistan
+64851,West Indies,Zimbabwe,256,150,West Indies
+64852,Zimbabwe,West Indies,196,197,West Indies
+64853,Pakistan,New Zealand,281,157,Pakistan
+64855,New Zealand,Pakistan,183,184,Pakistan
+64857,Pakistan,New Zealand,229,230,New Zealand
+64862,South Africa,West Indies,263,54,South Africa
+64864,West Indies,South Africa,147,15,West Indies
+64865,South Africa,West Indies,297,300,West Indies
+64870,Australia,Sri Lanka,262,178,Australia
+64871,Sri Lanka,Australia,245,244,Sri Lanka
+64872,South Africa,New Zealand,259,264,New Zealand
+64874,Australia,Sri Lanka,233,193,Australia
+64881,Bangladesh,Zimbabwe,183,185,Zimbabwe
+64882,Pakistan,India,329,317,Pakistan
+64883,India,Pakistan,244,247,Pakistan
+64884,Pakistan,India,293,294,India
+64885,India,Pakistan,293,253,India
+64887,Zimbabwe,Sri Lanka,211,144,Zimbabwe
+64889,West Indies,,57,,
+64891,Sri Lanka,Zimbabwe,223,151,Sri Lanka
+64894,England,West Indies,280,282,West Indies
+64896,Bangladesh,West Indies,144,145,West Indies
+64897,West Indies,Bangladesh,124,101,West Indies
+64898,Bangladesh,West Indies,118,119,West Indies
+64899,Zimbabwe,Australia,205,207,Australia
+64900,Australia,Zimbabwe,323,184,Australia
+64901,Zimbabwe,Australia,196,199,Australia
+64905,South Africa,Sri Lanka,235,236,Sri Lanka
+64906,Sri Lanka,South Africa,308,259,Sri Lanka
+64907,New Zealand,Bangladesh,224,86,New Zealand
+64910,Zimbabwe,England,195,197,England
+64911,England,Zimbabwe,263,102,England
+64913,England,Zimbabwe,261,187,England
+64914,India,Bangladesh,245,234,India
+64917,India,Bangladesh,348,257,India
+64919,Zimbabwe,Bangladesh,237,206,Zimbabwe
+64922,South Africa,England,175,103,South Africa
+64923,Zimbabwe,Bangladesh,198,202,Bangladesh
+64924,England,South Africa,270,270,South Africa
+64925,England,South Africa,267,270,South Africa
+64926,South Africa,England,291,183,South Africa
+64927,South Africa,England,311,304,South Africa
+64928,South Africa,England,211,7,South Africa
+64929,England,South Africa,240,241,South Africa
+64932,South Africa,Zimbabwe,301,136,South Africa
+64933,Australia,New Zealand,264,178,Australia
+64934,South Africa,Zimbabwe,329,198,South Africa
+64935,New Zealand,Australia,233,236,Australia
+64936,Zimbabwe,South Africa,206,207,South Africa
+64939,India,Pakistan,356,298,India
+64941,India,Pakistan,315,319,Pakistan
+64942,India,Pakistan,249,252,Pakistan
+64943,Pakistan,India,303,144,Pakistan
+65029,England,Pakistan,204,208,Pakistan
+65030,Pakistan,England,185,189,England
+65031,Pakistan,England,229,231,England
+65032,India,England,170,171,England
+65033,England,India,307,237,England
+65034,India,England,204,181,India
+65235,West Indies,South Africa,278,275,West Indies
+65236,Zimbabwe,Namibia,340,104,Zimbabwe
+65237,Sri Lanka,New Zealand,272,225,Sri Lanka
+65238,Australia,Pakistan,310,228,Australia
+65239,Canada,Bangladesh,180,120,Canada
+65240,Kenya,South Africa,140,142,South Africa
+65241,India,Netherlands,204,136,India
+65242,New Zealand,West Indies,241,221,New Zealand
+65244,India,Australia,125,128,Australia
+65245,Canada,Kenya,197,198,Kenya
+65246,Netherlands,England,142,144,England
+65247,Pakistan,Namibia,255,84,Pakistan
+65248,South Africa,New Zealand,306,229,South Africa
+65249,West Indies,Bangladesh,244,32,West Indies
+65250,India,Zimbabwe,255,172,India
+65251,Canada,Sri Lanka,36,37,Sri Lanka
+65252,England,Namibia,272,217,England
+65254,Bangladesh,South Africa,108,109,South Africa
+65255,England,Pakistan,246,134,England
+65256,Canada,West Indies,202,206,West Indies
+65257,India,Namibia,311,130,India
+65258,Kenya,Sri Lanka,210,157,Kenya
+65259,Zimbabwe,Australia,246,248,Australia
+65260,Pakistan,Netherlands,253,156,Pakistan
+65261,Bangladesh,New Zealand,198,199,New Zealand
+65262,India,England,250,168,India
+65263,Australia,Namibia,301,45,Australia
+65264,South Africa,Canada,254,136,South Africa
+65265,Zimbabwe,Netherlands,301,202,Zimbabwe
+65266,Sri Lanka,West Indies,228,222,Sri Lanka
+65267,Kenya,Bangladesh,217,185,Kenya
+65268,Pakistan,India,273,276,India
+65269,England,Australia,204,208,Australia
+65270,Canada,New Zealand,196,197,New Zealand
+65271,Netherlands,Namibia,314,250,Netherlands
+65272,Sri Lanka,South Africa,268,229,Sri Lanka
+65273,Pakistan,,73,,
+65275,Australia,Sri Lanka,319,223,Australia
+65276,Kenya,India,225,226,India
+65277,Zimbabwe,New Zealand,252,253,New Zealand
+65278,India,Sri Lanka,292,109,India
+65279,Australia,New Zealand,208,112,Australia
+65280,Zimbabwe,Kenya,133,135,Kenya
+65281,New Zealand,India,146,150,India
+65282,Sri Lanka,Zimbabwe,256,182,Sri Lanka
+65283,Kenya,Australia,174,178,Australia
+65284,Australia,Sri Lanka,212,123,Australia
+65285,India,Kenya,270,179,India
+65286,Australia,India,359,234,Australia
+65634,Sri Lanka,Australia,343,264,Sri Lanka
+65635,Australia,England,271,264,Australia
+65636,Sri Lanka,England,284,253,Sri Lanka
+65637,Sri Lanka,Australia,211,214,Australia
+65638,England,Sri Lanka,279,260,England
+65639,England,Australia,152,153,Australia
+65640,Sri Lanka,Australia,214,215,Australia
+65641,England,Australia,117,118,Australia
+65642,Australia,England,229,224,Australia
+65643,Australia,India,288,270,Australia
+65644,Australia,Zimbabwe,225,126,Australia
+65645,Zimbabwe,India,208,211,India
+65646,Australia,Zimbabwe,344,196,Australia
+65647,India,Australia,303,284,India
+65648,India,Zimbabwe,255,231,India
+65649,India,Australia,296,225,India
+65652,Australia,,263,,
+65653,India,Australia,203,204,Australia
+65655,India,Australia,222,224,Australia
+65656,Australia,India,359,151,Australia
+65659,West Indies,Pakistan,273,274,Pakistan
+65660,West Indies,Australia,263,43,West Indies
+65661,Pakistan,Australia,163,167,Australia
+65662,Australia,West Indies,269,196,Australia
+65664,Australia,Pakistan,265,268,Pakistan
+65665,Pakistan,West Indies,307,277,Pakistan
+65666,Australia,Pakistan,237,219,Australia
+65708,Pakistan,Bangladesh,257,181,Pakistan
+65713,Pakistan,Sri Lanka,122,123,Sri Lanka
+65714,Bangladesh,Sri Lanka,190,191,Sri Lanka
+65716,India,Sri Lanka,271,267,India
+65718,Sri Lanka,India,228,203,Sri Lanka
+65803,Pakistan,Zimbabwe,278,210,Pakistan
+65804,Sri Lanka,Pakistan,223,225,Pakistan
+65805,Kenya,Zimbabwe,225,230,Zimbabwe
+65806,Sri Lanka,Kenya,256,127,Sri Lanka
+65807,Sri Lanka,Zimbabwe,193,194,Zimbabwe
+65808,Pakistan,Kenya,286,143,Pakistan
+65809,Zimbabwe,Pakistan,168,172,Pakistan
+66196,England,Zimbabwe,299,147,England
+66197,New Zealand,United States of America,347,137,New Zealand
+66198,India,Kenya,290,192,India
+66200,United States of America,Australia,65,66,Australia
+66201,Zimbabwe,Sri Lanka,191,195,Sri Lanka
+66202,Kenya,Pakistan,94,95,Pakistan
+66203,West Indies,Bangladesh,269,131,West Indies
+66204,New Zealand,Australia,198,199,Australia
+66205,England,Sri Lanka,251,95,England
+66206,South Africa,West Indies,246,249,West Indies
+66207,India,Pakistan,200,201,Pakistan
+66208,Australia,England,259,262,England
+66209,Pakistan,West Indies,131,132,West Indies
+66210,England,West Indies,217,218,West Indies
+66283,England,Sri Lanka,293,249,England
+66284,England,India,271,272,India
+66293,England,Zimbabwe,191,195,Zimbabwe
+66294,South Africa,England,264,265,England
+66295,South Africa,Zimbabwe,272,226,South Africa
+66296,England,,81,,
+66297,England,South Africa,223,227,South Africa
+66299,Zimbabwe,England,92,95,England
+66301,Zimbabwe,South Africa,173,174,South Africa
+66302,South Africa,England,107,111,England
+66304,England,West Indies,147,148,West Indies
+66305,England,New Zealand,101,103,New Zealand
+66306,West Indies,England,159,160,England
+66309,England,West Indies,285,286,West Indies
+66311,New Zealand,West Indies,266,159,New Zealand
+66356,India,,46,,
+66357,Pakistan,Sri Lanka,199,120,Pakistan
+66358,Pakistan,New Zealand,116,117,New Zealand
+66361,New Zealand,Sri Lanka,156,147,New Zealand
+66363,Pakistan,New Zealand,198,200,New Zealand
+66364,India,,141,,
+66365,India,Australia,283,246,India
+66366,New Zealand,Australia,97,101,Australia
+66367,Australia,India,286,209,Australia
+66368,New Zealand,Australia,258,259,Australia
+66369,India,New Zealand,246,249,New Zealand
+66372,India,New Zealand,353,208,India
+66374,Pakistan,India,192,127,Pakistan
+66375,Australia,,175,,
+66377,Australia,Pakistan,269,259,Australia
+66378,Pakistan,Zimbabwe,292,148,Pakistan
+66379,Zimbabwe,Pakistan,252,258,Pakistan
+66380,Sri Lanka,Pakistan,232,233,Pakistan
+66381,Zimbabwe,Sri Lanka,104,108,Sri Lanka
+66383,Sri Lanka,Pakistan,287,168,Sri Lanka
+66385,Australia,New Zealand,246,247,New Zealand
+66386,Australia,New Zealand,261,244,Australia
+208835,West Indies,South Africa,152,124,West Indies
+209339,West Indies,South Africa,138,141,South Africa
+209582,Pakistan,West Indies,192,133,Pakistan
+209768,Pakistan,West Indies,303,281,Pakistan
+211244,Bangladesh,England,190,192,England
+211364,Australia,Bangladesh,249,250,Bangladesh
+211678,Australia,England,266,209,Australia
+211824,Bangladesh,Australia,139,140,Australia
+211860,Bangladesh,England,208,209,England
+212020,Australia,England,261,37,Australia
+212253,Bangladesh,Australia,250,254,Australia
+212452,Australia,England,196,196,England
+213288,England,Australia,228,229,Australia
+214742,West Indies,India,178,180,India
+214852,Sri Lanka,West Indies,241,191,Sri Lanka
+215134,West Indies,Sri Lanka,226,193,West Indies
+216271,Africa XI,Asia XI,198,196,Africa XI
+216669,Africa XI,Asia XI,106,8,Africa XI
+217481,India,Zimbabwe,226,65,India
+217647,Sri Lanka,Bangladesh,269,181,Sri Lanka
+217648,New Zealand,Zimbabwe,238,211,New Zealand
+217979,Zimbabwe,India,250,255,India
+218250,India,New Zealand,276,278,New Zealand
+221083,Australia,ICC World XI,328,273,Australia
+221337,Australia,ICC World XI,293,137,Australia
+223018,India,Sri Lanka,350,198,India
+223334,Sri Lanka,India,122,123,India
+223335,South Africa,New Zealand,201,182,South Africa
+223542,New Zealand,South Africa,243,245,South Africa
+223902,Sri Lanka,India,261,262,India
+224044,South Africa,,79,,
+224227,New Zealand,South Africa,215,140,New Zealand
+224231,India,Sri Lanka,285,286,Sri Lanka
+224556,Sri Lanka,India,196,197,India
+225171,England,Ireland,301,263,England
+225245,England,Pakistan,202,46,England
+225246,England,Pakistan,166,169,Pakistan
+225247,England,Pakistan,271,274,Pakistan
+225248,Pakistan,England,235,237,England
+225249,Pakistan,England,154,155,England
+225250,Sri Lanka,England,257,237,Sri Lanka
+225251,Sri Lanka,England,319,273,Sri Lanka
+225252,England,Sri Lanka,261,265,Sri Lanka
+225253,Sri Lanka,England,318,285,Sri Lanka
+225254,England,Sri Lanka,321,324,Sri Lanka
+225437,Sri Lanka,India,244,245,India
+225959,India,South Africa,249,252,South Africa
+226352,England,Pakistan,327,285,England
+226354,Pakistan,England,353,188,Pakistan
+226356,England,Pakistan,206,200,England
+226359,South Africa,India,221,224,India
+226364,Australia,New Zealand,252,105,Australia
+226375,Australia,South Africa,228,231,South Africa
+226376,Australia,South Africa,245,186,Australia
+226377,Australia,South Africa,281,201,Australia
+226378,Australia,South Africa,344,287,Australia
+226380,Sri Lanka,Australia,309,258,Sri Lanka
+226381,Sri Lanka,Australia,218,219,Australia
+226382,Sri Lanka,Australia,233,237,Australia
+226383,Sri Lanka,South Africa,282,188,Sri Lanka
+226384,South Africa,Sri Lanka,263,254,South Africa
+226385,Sri Lanka,South Africa,221,224,South Africa
+226386,Sri Lanka,South Africa,257,181,Sri Lanka
+226390,Sri Lanka,New Zealand,164,166,New Zealand
+226391,Sri Lanka,New Zealand,255,256,New Zealand
+226392,New Zealand,Sri Lanka,224,203,New Zealand
+235831,India,Pakistan,328,311,India
+236358,Sri Lanka,Australia,274,252,Sri Lanka
+236520,Pakistan,India,265,266,India
+236595,Australia,Sri Lanka,368,201,Australia
+236809,Pakistan,India,288,292,India
+236963,Sri Lanka,Australia,266,267,Australia
+237222,Pakistan,India,161,162,India
+237568,New Zealand,West Indies,288,207,New Zealand
+237571,Pakistan,India,286,287,India
+237574,Bangladesh,Sri Lanka,118,119,Sri Lanka
+238169,Sri Lanka,Bangladesh,212,213,Bangladesh
+238170,Sri Lanka,Bangladesh,309,231,Sri Lanka
+238173,Bangladesh,Australia,195,196,Australia
+238174,Australia,Bangladesh,250,183,Australia
+238175,Bangladesh,Australia,124,127,Australia
+238176,West Indies,New Zealand,200,204,New Zealand
+238177,New Zealand,West Indies,276,255,New Zealand
+238178,New Zealand,West Indies,324,233,New Zealand
+238179,New Zealand,West Indies,233,234,West Indies
+238188,India,England,203,164,India
+238189,England,India,226,230,India
+238190,India,England,294,245,India
+238193,India,England,223,227,England
+238194,England,India,288,289,India
+238196,Australia,South Africa,229,207,Australia
+238197,South Africa,Australia,289,93,South Africa
+238198,Australia,South Africa,254,230,Australia
+238199,South Africa,Australia,246,247,Australia
+238200,Australia,South Africa,434,438,South Africa
+238213,Pakistan,,201,,
+238214,Sri Lanka,Pakistan,130,134,Pakistan
+238215,Sri Lanka,Pakistan,224,229,Pakistan
+239907,Zimbabwe,West Indies,151,154,West Indies
+239908,West Indies,Zimbabwe,242,144,West Indies
+239911,Zimbabwe,West Indies,152,156,West Indies
+239912,West Indies,Zimbabwe,263,72,West Indies
+239913,West Indies,Zimbabwe,266,162,West Indies
+239916,West Indies,India,198,197,West Indies
+239917,India,West Indies,245,248,West Indies
+239918,India,West Indies,217,218,West Indies
+239919,West Indies,India,255,236,West Indies
+244510,India,Pakistan,197,201,Pakistan
+244511,India,Pakistan,269,218,India
+247457,West Indies,Pakistan,241,187,West Indies
+247458,Australia,Scotland,334,131,Australia
+247460,Sri Lanka,Bermuda,321,78,Sri Lanka
+247461,Ireland,Zimbabwe,221,221,Zimbabwe
+247462,South Africa,Netherlands,353,132,South Africa
+247463,England,New Zealand,209,210,New Zealand
+247464,India,Bangladesh,191,192,Bangladesh
+247465,Pakistan,Ireland,132,133,Ireland
+247466,Australia,Netherlands,358,129,Australia
+247467,England,Canada,279,228,England
+247468,India,Bermuda,413,156,India
+247469,Zimbabwe,West Indies,202,204,West Indies
+247470,Scotland,South Africa,186,188,South Africa
+247471,New Zealand,Kenya,331,183,New Zealand
+247472,Sri Lanka,Bangladesh,318,112,Sri Lanka
+247473,Pakistan,Zimbabwe,349,99,Pakistan
+247474,Scotland,Netherlands,136,140,Netherlands
+247475,New Zealand,Canada,363,249,New Zealand
+247476,Sri Lanka,India,254,185,Sri Lanka
+247477,Ireland,West Indies,183,190,West Indies
+247478,Australia,South Africa,377,294,Australia
+247479,Kenya,England,177,178,England
+247480,Bermuda,Bangladesh,94,96,Bangladesh
+247481,Australia,West Indies,322,219,Australia
+247482,Sri Lanka,South Africa,209,212,South Africa
+247483,West Indies,New Zealand,177,179,New Zealand
+247484,England,Ireland,266,218,England
+247485,Bangladesh,Australia,104,106,Australia
+247486,Sri Lanka,West Indies,303,190,Sri Lanka
+247487,Bangladesh,New Zealand,174,178,New Zealand
+247488,Ireland,South Africa,152,165,South Africa
+247489,Sri Lanka,England,235,233,Sri Lanka
+247490,Bangladesh,South Africa,251,184,Bangladesh
+247491,England,Australia,247,248,Australia
+247492,New Zealand,Ireland,263,134,New Zealand
+247493,South Africa,West Indies,356,289,South Africa
+247494,Bangladesh,England,143,147,England
+247495,New Zealand,Sri Lanka,219,222,Sri Lanka
+247496,Ireland,Australia,91,92,Australia
+247497,South Africa,New Zealand,193,196,New Zealand
+247498,Ireland,Bangladesh,243,169,Ireland
+247499,Sri Lanka,Australia,226,232,Australia
+247500,England,South Africa,154,157,South Africa
+247501,Ireland,Sri Lanka,77,81,Sri Lanka
+247502,West Indies,Bangladesh,230,131,West Indies
+247503,Australia,New Zealand,348,133,Australia
+247504,West Indies,England,300,301,England
+247505,Sri Lanka,New Zealand,289,208,Sri Lanka
+247506,South Africa,Australia,149,153,Australia
+247507,Australia,Sri Lanka,281,215,Australia
+249207,Zimbabwe,Bangladesh,197,201,Bangladesh
+249211,South Africa,India,248,91,South Africa
+249212,South Africa,India,274,168,South Africa
+249213,South Africa,India,243,163,South Africa
+249214,India,South Africa,200,201,South Africa
+249228,Australia,New Zealand,289,184,Australia
+249229,New Zealand,Australia,218,224,Australia
+249230,Australia,New Zealand,343,335,Australia
+249231,New Zealand,Australia,290,291,Australia
+249232,England,Australia,242,246,Australia
+249233,England,Australia,155,156,Australia
+249234,England,Australia,110,111,Australia
+249235,England,Australia,292,200,England
+249236,New Zealand,England,205,206,England
+249237,New Zealand,England,210,120,New Zealand
+249238,New Zealand,England,318,260,New Zealand
+249239,England,New Zealand,270,256,England
+249240,Australia,England,252,253,England
+249241,England,Australia,246,152,England
+249378,Kenya,Bangladesh,168,170,Bangladesh
+249379,Kenya,Bangladesh,184,185,Bangladesh
+249380,Kenya,Bangladesh,118,120,Bangladesh
+249739,Sri Lanka,Bangladesh,302,265,Sri Lanka
+249740,Zimbabwe,West Indies,85,90,West Indies
+249741,Sri Lanka,Zimbabwe,285,141,Sri Lanka
+249742,Bangladesh,West Indies,161,164,West Indies
+249743,Bangladesh,Zimbabwe,231,130,Bangladesh
+249744,West Indies,Sri Lanka,80,83,Sri Lanka
+249745,England,India,125,126,India
+249746,New Zealand,South Africa,195,108,New Zealand
+249747,Sri Lanka,Pakistan,253,255,Pakistan
+249748,West Indies,Australia,234,224,West Indies
+249749,New Zealand,Sri Lanka,165,166,Sri Lanka
+249750,England,Australia,169,170,Australia
+249751,South Africa,Sri Lanka,219,141,South Africa
+249752,New Zealand,Pakistan,274,223,New Zealand
+249753,India,West Indies,223,224,West Indies
+249754,South Africa,Pakistan,213,89,South Africa
+249755,West Indies,England,272,276,England
+249756,India,Australia,249,252,Australia
+249757,Australia,New Zealand,240,206,Australia
+249758,South Africa,West Indies,258,262,West Indies
+249759,West Indies,Australia,138,116,West Indies
+250668,South Africa,Pakistan,392,228,South Africa
+250669,Pakistan,South Africa,351,210,Pakistan
+250670,Pakistan,,245,,
+250671,Pakistan,South Africa,107,113,South Africa
+250672,Pakistan,South Africa,153,156,South Africa
+251489,New Zealand,Sri Lanka,285,289,Sri Lanka
+251491,Sri Lanka,New Zealand,112,110,Sri Lanka
+251492,Sri Lanka,New Zealand,262,73,Sri Lanka
+251494,Australia,New Zealand,148,149,New Zealand
+251495,Australia,New Zealand,336,340,New Zealand
+251496,Australia,New Zealand,346,350,New Zealand
+255961,Zimbabwe,South Africa,201,202,South Africa
+256607,India,West Indies,309,141,India
+256608,Australia,India,244,35,Australia
+256610,Australia,West Indies,272,273,West Indies
+256612,India,West Indies,162,146,India
+256614,Australia,India,213,195,Australia
+256615,Australia,West Indies,240,113,Australia
+256665,India,,11,,
+257470,South Africa,Zimbabwe,418,247,South Africa
+257769,West Indies,Pakistan,151,154,Pakistan
+257770,West Indies,Pakistan,207,192,West Indies
+257771,Pakistan,West Indies,209,212,West Indies
+257772,West Indies,Pakistan,238,239,Pakistan
+258465,England,West Indies,225,146,England
+258466,West Indies,England,278,217,West Indies
+258467,West Indies,England,289,196,West Indies
+258471,England,India,288,184,England
+258472,India,England,329,320,India
+258473,England,India,281,239,England
+258474,India,England,212,213,England
+258475,India,England,324,242,India
+258476,England,India,316,317,India
+258477,India,England,187,188,England
+259384,Bermuda,Canada,235,239,Canada
+259389,Netherlands,Bermuda,91,94,Bermuda
+259390,Bermuda,Canada,178,179,Canada
+259391,Canada,Netherlands,223,205,Canada
+259793,Zimbabwe,South Africa,152,156,South Africa
+264068,Zimbabwe,Bangladesh,217,218,Bangladesh
+264069,Bangladesh,Zimbabwe,220,194,Bangladesh
+264070,Zimbabwe,Bangladesh,146,147,Bangladesh
+264071,Zimbabwe,Bangladesh,193,197,Bangladesh
+267386,Canada,Bermuda,162,106,Canada
+267387,Bermuda,Netherlands,194,198,Netherlands
+267389,Scotland,Kenya,254,177,Scotland
+267391,Kenya,Canada,250,92,Kenya
+267708,India,West Indies,268,270,West Indies
+267709,India,West Indies,341,181,India
+267710,Sri Lanka,,102,,
+267712,Sri Lanka,India,257,252,Sri Lanka
+267713,Sri Lanka,India,259,263,India
+267715,Sri Lanka,India,230,233,India
+275789,Scotland,India,203,212,India
+282688,Bangladesh,India,250,251,India
+282689,India,Bangladesh,284,238,India
+289107,Asia XI,Africa XI,317,283,Asia XI
+289108,Asia XI,Africa XI,337,306,Asia XI
+289110,Asia XI,Africa XI,331,318,Asia XI
+291217,Sri Lanka,England,269,150,Sri Lanka
+291218,England,Sri Lanka,234,169,England
+291220,Sri Lanka,England,211,212,England
+291221,Sri Lanka,England,211,104,Sri Lanka
+291345,New Zealand,Australia,254,255,Australia
+291346,New Zealand,,30,,
+291347,Australia,New Zealand,282,168,Australia
+291359,India,Australia,194,51,India
+291360,India,,267,,
+291361,Australia,Sri Lanka,253,125,Australia
+291362,Australia,India,159,160,India
+291364,Australia,Sri Lanka,236,173,Australia
+291365,Australia,India,203,153,Australia
+291366,Sri Lanka,India,238,239,India
+291367,Australia,Sri Lanka,184,77,Australia
+291368,Australia,India,317,299,Australia
+291369,Sri Lanka,India,179,180,India
+291370,Sri Lanka,Australia,221,208,Sri Lanka
+291371,Australia,India,239,242,India
+291372,India,Australia,258,249,India
+293071,Ireland,India,193,171,Ireland
+293072,South Africa,Ireland,173,131,South Africa
+293076,India,South Africa,242,245,South Africa
+293077,South Africa,India,226,227,India
+293078,South Africa,India,148,152,India
+293481,Sri Lanka,Bangladesh,234,164,Sri Lanka
+293482,Bangladesh,Sri Lanka,137,141,Sri Lanka
+293483,Sri Lanka,Bangladesh,196,157,Sri Lanka
+295785,Scotland,,71,,
+295788,Ireland,,84,,
+296685,Canada,Kenya,230,233,Kenya
+296687,Canada,Kenya,189,193,Kenya
+296904,England,New Zealand,307,193,England
+296905,England,New Zealand,162,127,England
+296906,New Zealand,England,182,160,New Zealand
+296907,England,New Zealand,245,246,New Zealand
+296908,New Zealand,England,266,215,New Zealand
+296914,England,South Africa,275,255,England
+296915,South Africa,England,83,85,England
+296916,England,South Africa,296,170,England
+296917,South Africa,England,183,137,South Africa
+296918,South Africa,,6,,
+297793,Australia,India,307,9,Australia
+297794,Australia,India,306,222,Australia
+297795,Australia,India,290,243,Australia
+297796,India,Australia,291,283,India
+297797,India,Australia,148,149,Australia
+297798,Australia,India,317,299,Australia
+297799,Australia,India,193,195,India
+297801,Pakistan,India,239,242,India
+297802,India,Pakistan,321,322,Pakistan
+297803,India,Pakistan,294,248,India
+297804,Pakistan,India,255,260,India
+297805,Pakistan,India,306,275,Pakistan
+298796,New Zealand,South Africa,248,249,South Africa
+298797,South Africa,New Zealand,209,210,New Zealand
+298798,New Zealand,South Africa,238,242,South Africa
+298805,West Indies,South Africa,175,176,South Africa
+298806,South Africa,West Indies,255,169,South Africa
+298807,West Indies,South Africa,252,256,South Africa
+298808,West Indies,South Africa,263,266,South Africa
+298809,West Indies,South Africa,295,211,West Indies
+299006,South Africa,Pakistan,294,249,South Africa
+299007,Pakistan,South Africa,265,240,Pakistan
+299008,South Africa,Pakistan,197,202,Pakistan
+299009,Pakistan,South Africa,230,233,South Africa
+299010,South Africa,Pakistan,233,219,South Africa
+300426,Bangladesh,New Zealand,201,203,New Zealand
+300427,New Zealand,Bangladesh,335,181,New Zealand
+300428,Bangladesh,New Zealand,93,95,New Zealand
+300437,England,New Zealand,130,131,New Zealand
+300438,England,New Zealand,158,165,New Zealand
+300439,New Zealand,England,234,229,New Zealand
+300440,England,New Zealand,340,340,New Zealand
+300441,England,New Zealand,242,213,England
+300486,Zimbabwe,South Africa,206,210,South Africa
+300487,Zimbabwe,South Africa,247,251,South Africa
+300488,South Africa,Zimbabwe,323,295,South Africa
+313992,Bermuda,Kenya,174,175,Kenya
+313993,Bermuda,Kenya,183,187,Kenya
+313994,Bermuda,Kenya,167,169,Kenya
+317578,Zimbabwe,West Indies,274,244,Zimbabwe
+317579,West Indies,Zimbabwe,286,176,West Indies
+317581,Zimbabwe,West Indies,232,234,West Indies
+319134,Sri Lanka,West Indies,235,236,West Indies
+319135,Sri Lanka,West Indies,112,125,West Indies
+319136,Sri Lanka,West Indies,257,81,Sri Lanka
+319143,Australia,West Indies,273,189,Australia
+319144,Australia,West Indies,213,140,Australia
+319145,West Indies,Australia,223,227,Australia
+319146,Australia,West Indies,282,281,Australia
+319147,Australia,West Indies,341,172,Australia
+323949,Bangladesh,South Africa,178,180,South Africa
+323950,Bangladesh,South Africa,173,179,South Africa
+323951,Bangladesh,South Africa,143,147,South Africa
+325569,Bermuda,Canada,201,184,Bermuda
+325572,Kenya,Scotland,141,31,Kenya
+325576,Ireland,,18,,
+325579,Netherlands,Scotland,117,120,Scotland
+325580,Scotland,Ireland,152,129,Scotland
+325581,Zimbabwe,Ireland,303,147,Zimbabwe
+325800,Pakistan,Zimbabwe,347,243,Pakistan
+325801,Zimbabwe,Pakistan,238,239,Pakistan
+325802,Pakistan,Zimbabwe,272,235,Pakistan
+325803,Zimbabwe,Pakistan,244,245,Pakistan
+325804,Zimbabwe,Pakistan,181,187,Pakistan
+335346,Bangladesh,United Arab Emirates,300,204,Bangladesh
+335347,Pakistan,Hong Kong,288,133,Pakistan
+335348,Sri Lanka,Bangladesh,357,226,Sri Lanka
+335349,India,Hong Kong,374,118,India
+335350,Sri Lanka,United Arab Emirates,290,148,Sri Lanka
+335351,Pakistan,India,299,301,India
+335352,Bangladesh,India,283,284,India
+335353,Sri Lanka,Pakistan,302,238,Sri Lanka
+335354,Sri Lanka,Bangladesh,332,174,Sri Lanka
+335355,India,Pakistan,308,309,Pakistan
+335356,Sri Lanka,India,308,310,India
+335357,Bangladesh,Pakistan,115,116,Pakistan
+335358,Sri Lanka,India,273,173,Sri Lanka
+336201,Australia,Bangladesh,254,74,Australia
+336202,Bangladesh,Australia,117,118,Australia
+336204,Australia,Bangladesh,198,125,Australia
+343732,India,Sri Lanka,146,147,Sri Lanka
+343733,Sri Lanka,India,142,143,India
+343734,India,Sri Lanka,237,204,India
+343736,Sri Lanka,India,227,103,Sri Lanka
+343759,Pakistan,Bangladesh,322,129,Pakistan
+343760,Bangladesh,Pakistan,225,160,Bangladesh
+343761,Pakistan,Bangladesh,308,285,Pakistan
+343762,Bangladesh,Pakistan,210,212,Pakistan
+343763,Pakistan,Bangladesh,329,179,Pakistan
+345468,Pakistan,Bangladesh,233,163,Pakistan
+345469,India,Pakistan,330,190,India
+345470,Bangladesh,India,222,223,India
+345471,Pakistan,India,315,290,Pakistan
+350043,Australia,England,260,256,Australia
+350044,Australia,England,249,210,Australia
+350045,England,Australia,228,230,Australia
+350046,England,Australia,220,221,Australia
+350047,England,Australia,299,302,Australia
+350048,Australia,England,296,185,Australia
+350049,Australia,England,176,177,England
+350348,South Africa,Bangladesh,283,222,South Africa
+350477,Australia,South Africa,286,145,Australia
+350478,Australia,South Africa,131,132,South Africa
+350479,South Africa,Australia,289,264,South Africa
+350480,South Africa,Australia,317,256,South Africa
+350481,Australia,South Africa,303,256,Australia
+351684,Australia,South Africa,271,272,South Africa
+351685,Australia,South Africa,249,244,Australia
+351686,Australia,South Africa,269,270,South Africa
+351687,Australia,South Africa,222,223,South Africa
+351688,South Africa,Australia,288,249,South Africa
+351689,Australia,New Zealand,181,182,New Zealand
+351690,Australia,New Zealand,225,226,New Zealand
+351691,Australia,New Zealand,301,269,Australia
+351692,New Zealand,Australia,244,247,Australia
+351693,Australia,New Zealand,168,123,Australia
+352665,England,West Indies,270,244,England
+352666,West Indies,England,264,243,West Indies
+352667,England,West Indies,117,117,West Indies
+352668,West Indies,England,239,136,West Indies
+352669,England,West Indies,172,146,England
+360800,South Africa,Kenya,336,177,South Africa
+361043,India,England,387,229,India
+361044,India,England,292,238,India
+361045,England,India,240,198,England
+361046,India,England,166,178,England
+361047,England,India,270,273,India
+366341,India,Sri Lanka,258,212,India
+366623,India,New Zealand,273,162,India
+366624,New Zealand,India,270,201,New Zealand
+366625,India,New Zealand,149,151,New Zealand
+366626,India,,188,,
+366627,India,New Zealand,392,334,India
+366709,West Indies,,129,,
+366711,West Indies,New Zealand,128,129,New Zealand
+374059,West Indies,Pakistan,294,295,Pakistan
+374060,Pakistan,West Indies,232,208,Pakistan
+375456,Zimbabwe,Sri Lanka,127,130,Sri Lanka
+375457,Zimbabwe,Sri Lanka,67,68,Sri Lanka
+375460,Sri Lanka,Zimbabwe,171,166,Sri Lanka
+375462,Sri Lanka,Zimbabwe,152,133,Sri Lanka
+377313,India,West Indies,339,319,India
+377314,India,West Indies,188,192,West Indies
+377315,West Indies,India,186,159,West Indies
+377316,West Indies,,27,,
+378753,Zimbabwe,Bangladesh,205,167,Zimbabwe
+378755,Sri Lanka,Bangladesh,147,151,Bangladesh
+378759,Zimbabwe,Bangladesh,119,121,Bangladesh
+380715,West Indies,England,160,161,England
+380716,England,West Indies,328,270,England
+383275,England,Ireland,203,112,England
+385025,Kenya,Zimbabwe,234,236,Zimbabwe
+385749,Sri Lanka,Pakistan,219,220,Pakistan
+385750,Sri Lanka,Pakistan,290,161,Sri Lanka
+385751,Sri Lanka,Pakistan,309,75,Sri Lanka
+386530,Sri Lanka,India,246,247,India
+386531,India,Sri Lanka,256,241,India
+386532,India,Sri Lanka,363,216,India
+386533,India,Sri Lanka,332,265,India
+386534,Sri Lanka,India,320,252,Sri Lanka
+387566,South Africa,England,250,252,England
+387567,South Africa,England,354,242,South Africa
+387568,South Africa,England,119,121,England
+390204,Scotland,Ireland,232,233,Ireland
+390227,Canada,Scotland,252,104,Canada
+392616,Australia,Pakistan,168,171,Pakistan
+392617,Pakistan,Australia,207,208,Australia
+392618,Australia,Pakistan,198,171,Australia
+392619,Pakistan,Australia,197,200,Australia
+392620,Australia,Pakistan,250,254,Pakistan
+401073,Bangladesh,West Indies,246,194,Bangladesh
+401074,West Indies,Bangladesh,274,276,Bangladesh
+401075,West Indies,Bangladesh,248,249,Bangladesh
+403370,Sri Lanka,Pakistan,232,196,Sri Lanka
+403371,Pakistan,Sri Lanka,168,169,Sri Lanka
+403372,Pakistan,Sri Lanka,288,289,Sri Lanka
+403373,Pakistan,Sri Lanka,321,175,Pakistan
+403374,Pakistan,Sri Lanka,279,147,Pakistan
+403380,Sri Lanka,New Zealand,216,119,Sri Lanka
+403381,Sri Lanka,India,307,168,Sri Lanka
+403382,New Zealand,India,155,156,India
+403383,India,Sri Lanka,319,273,India
+406192,Australia,West Indies,256,143,Australia
+406193,West Indies,Australia,170,171,Australia
+406194,Australia,West Indies,225,6,Australia
+406195,Australia,West Indies,324,274,Australia
+406196,Australia,West Indies,324,199,Australia
+406202,Pakistan,Australia,274,275,Australia
+406203,Australia,Pakistan,267,127,Australia
+406204,Australia,Pakistan,286,246,Australia
+406205,Australia,Pakistan,277,142,Australia
+406206,Pakistan,Australia,212,213,Australia
+410337,Zimbabwe,Bangladesh,207,211,Bangladesh
+410338,Bangladesh,Zimbabwe,320,271,Bangladesh
+410339,Zimbabwe,Bangladesh,323,254,Zimbabwe
+410340,Zimbabwe,Bangladesh,312,313,Bangladesh
+410341,Zimbabwe,Bangladesh,209,212,Bangladesh
+415162,Kenya,Canada,113,117,Canada
+415273,Sri Lanka,South Africa,319,206,Sri Lanka
+415274,West Indies,Pakistan,133,134,Pakistan
+415275,New Zealand,South Africa,214,217,South Africa
+415276,Sri Lanka,England,212,213,England
+415277,Australia,West Indies,275,225,Australia
+415278,Pakistan,India,302,248,Pakistan
+415279,New Zealand,Sri Lanka,315,277,New Zealand
+415280,England,South Africa,323,301,England
+415281,Australia,,234,,
+415282,England,New Zealand,146,147,New Zealand
+415283,Pakistan,Australia,205,206,Australia
+415284,West Indies,India,129,130,India
+415285,England,Australia,257,258,Australia
+415286,Pakistan,New Zealand,233,234,New Zealand
+415287,New Zealand,Australia,200,206,Australia
+416236,Australia,India,292,288,Australia
+416237,India,Australia,354,255,India
+416238,Australia,India,229,230,India
+416239,Australia,India,250,226,Australia
+416240,Australia,India,350,347,Australia
+416241,India,Australia,170,172,Australia
+422626,Bangladesh,Zimbabwe,186,189,Zimbabwe
+422627,Zimbabwe,Bangladesh,219,221,Bangladesh
+422628,Zimbabwe,Bangladesh,196,198,Bangladesh
+422629,Zimbabwe,Bangladesh,44,49,Bangladesh
+422630,Zimbabwe,Bangladesh,221,222,Bangladesh
+423783,New Zealand,Bangladesh,336,190,New Zealand
+423784,Bangladesh,New Zealand,183,185,New Zealand
+423785,Bangladesh,New Zealand,241,244,New Zealand
+423791,Australia,New Zealand,275,281,New Zealand
+423792,Australia,New Zealand,273,253,Australia
+423793,New Zealand,Australia,245,248,Australia
+423794,New Zealand,Australia,238,202,New Zealand
+423795,New Zealand,Australia,241,190,New Zealand
+426384,Australia,Ireland,231,192,Australia
+426387,Australia,England,267,268,England
+426388,Australia,England,239,243,England
+426389,Australia,England,212,214,England
+426390,Australia,England,290,212,Australia
+426391,Australia,England,277,235,Australia
+426403,Bangladesh,England,250,251,England
+426404,Bangladesh,England,236,231,Bangladesh
+426405,England,Bangladesh,347,203,England
+426420,Bangladesh,England,228,229,England
+426421,Bangladesh,England,260,261,England
+426422,England,Bangladesh,284,239,England
+426428,England,Pakistan,274,250,England
+426429,Pakistan,England,294,295,England
+426430,Pakistan,England,241,218,Pakistan
+426431,Pakistan,England,265,227,Pakistan
+426432,England,Pakistan,256,135,England
+426720,Pakistan,New Zealand,287,149,Pakistan
+426721,New Zealand,Pakistan,303,239,New Zealand
+426722,New Zealand,Pakistan,211,204,New Zealand
+430508,South Africa,Zimbabwe,295,250,South Africa
+430509,South Africa,Zimbabwe,331,119,South Africa
+430886,India,Sri Lanka,414,411,India
+430887,India,Sri Lanka,301,302,Sri Lanka
+430888,Sri Lanka,India,239,243,India
+430889,Sri Lanka,India,315,317,India
+430890,Sri Lanka,,83,,
+433558,India,Bangladesh,370,283,India
+433559,Kenya,New Zealand,69,72,New Zealand
+433560,Sri Lanka,Canada,332,122,Sri Lanka
+433561,Australia,Zimbabwe,262,171,Australia
+433562,Netherlands,England,292,296,England
+433563,Pakistan,Kenya,317,112,Pakistan
+433564,West Indies,South Africa,222,223,South Africa
+433565,New Zealand,Australia,206,207,Australia
+433566,Bangladesh,Ireland,205,178,Bangladesh
+433567,Pakistan,Sri Lanka,277,266,Pakistan
+433568,India,England,338,338,England
+433569,West Indies,Netherlands,330,115,West Indies
+433570,Zimbabwe,Canada,298,123,Zimbabwe
+433571,Kenya,Sri Lanka,142,146,Sri Lanka
+433572,England,Ireland,327,329,Ireland
+433573,South Africa,Netherlands,351,120,South Africa
+433574,Pakistan,Canada,184,138,Pakistan
+433575,Zimbabwe,New Zealand,162,166,New Zealand
+433576,Bangladesh,West Indies,58,59,West Indies
+433577,Sri Lanka,,146,,
+433578,Ireland,India,207,210,India
+433579,England,South Africa,171,165,England
+433580,Kenya,Canada,198,199,Canada
+433581,New Zealand,Pakistan,302,192,New Zealand
+433582,Netherlands,India,189,191,India
+433583,Sri Lanka,Zimbabwe,327,188,Sri Lanka
+433584,West Indies,Ireland,275,231,West Indies
+433585,England,Bangladesh,225,227,Bangladesh
+433586,India,South Africa,296,300,South Africa
+433587,New Zealand,Canada,358,261,New Zealand
+433588,Australia,Kenya,324,264,Australia
+433589,Zimbabwe,Pakistan,151,164,Pakistan
+433590,Netherlands,Bangladesh,160,166,Bangladesh
+433591,South Africa,Ireland,272,141,South Africa
+433592,Canada,Australia,211,212,Australia
+433593,England,West Indies,243,225,England
+433594,Sri Lanka,New Zealand,265,153,Sri Lanka
+433595,Netherlands,Ireland,306,307,Ireland
+433596,Australia,Pakistan,176,178,Pakistan
+433597,South Africa,Bangladesh,284,78,South Africa
+433598,Zimbabwe,Kenya,308,147,Zimbabwe
+433599,India,West Indies,268,188,India
+433600,West Indies,Pakistan,112,113,Pakistan
+433601,Australia,India,260,261,India
+433602,New Zealand,South Africa,221,172,New Zealand
+433603,England,Sri Lanka,229,231,Sri Lanka
+433604,New Zealand,Sri Lanka,217,220,Sri Lanka
+433605,India,Pakistan,260,231,India
+433606,Sri Lanka,India,274,277,India
+434258,Bangladesh,Sri Lanka,260,261,Sri Lanka
+434259,India,Sri Lanka,279,283,Sri Lanka
+434260,Bangladesh,India,296,297,India
+434261,Bangladesh,Sri Lanka,249,252,Sri Lanka
+434262,Sri Lanka,India,213,214,India
+434263,Bangladesh,India,247,249,India
+434264,India,Sri Lanka,245,249,Sri Lanka
+439140,Zimbabwe,West Indies,254,252,Zimbabwe
+439141,Zimbabwe,West Indies,206,208,West Indies
+439142,West Indies,Zimbabwe,245,104,West Indies
+439143,Zimbabwe,West Indies,141,142,West Indies
+439144,Zimbabwe,West Indies,161,165,West Indies
+439147,South Africa,West Indies,280,215,South Africa
+439148,South Africa,West Indies,300,283,South Africa
+439149,South Africa,West Indies,224,157,South Africa
+439150,West Indies,South Africa,303,304,South Africa
+439151,West Indies,South Africa,252,255,South Africa
+441827,India,South Africa,298,297,India
+441828,India,South Africa,401,248,India
+441829,South Africa,India,365,275,South Africa
+446957,Australia,Sri Lanka,239,243,Sri Lanka
+446958,Sri Lanka,Australia,213,210,Sri Lanka
+446959,Sri Lanka,Australia,115,119,Australia
+446962,England,Australia,294,297,Australia
+446963,Australia,England,230,184,Australia
+446964,England,Australia,214,215,Australia
+446965,England,Australia,299,278,England
+446966,Australia,England,249,198,Australia
+446967,England,Australia,333,334,Australia
+446968,Australia,England,279,222,Australia
+450107,Ireland,Bangladesh,189,191,Bangladesh
+450379,Canada,Ireland,154,155,Ireland
+452146,India,Zimbabwe,285,289,Zimbabwe
+452147,Sri Lanka,India,242,243,India
+452148,Zimbabwe,Sri Lanka,118,119,Sri Lanka
+452149,India,Zimbabwe,194,197,Zimbabwe
+452150,India,Sri Lanka,268,270,Sri Lanka
+452151,Sri Lanka,Zimbabwe,236,240,Zimbabwe
+452152,Zimbabwe,Sri Lanka,199,203,Sri Lanka
+455231,Sri Lanka,Pakistan,242,226,Sri Lanka
+455232,Bangladesh,India,167,168,India
+455233,Sri Lanka,Bangladesh,312,186,Sri Lanka
+455234,Pakistan,India,267,271,India
+455235,Pakistan,Bangladesh,385,246,Pakistan
+455236,India,Sri Lanka,209,211,Sri Lanka
+455237,India,Sri Lanka,268,187,India
+456662,New Zealand,India,288,88,New Zealand
+456663,Sri Lanka,India,170,171,India
+456664,New Zealand,Sri Lanka,192,195,Sri Lanka
+456665,India,New Zealand,223,118,India
+456666,India,Sri Lanka,103,104,Sri Lanka
+456668,Sri Lanka,India,299,225,Sri Lanka
+461566,Pakistan,South Africa,203,207,South Africa
+461567,South Africa,Pakistan,286,289,Pakistan
+461568,South Africa,Pakistan,228,226,South Africa
+461569,South Africa,Pakistan,274,275,Pakistan
+461570,South Africa,Pakistan,317,260,South Africa
+463143,South Africa,Zimbabwe,351,287,South Africa
+463144,Zimbabwe,South Africa,268,273,South Africa
+463145,South Africa,Zimbabwe,399,127,South Africa
+463150,South Africa,India,289,154,South Africa
+463151,India,South Africa,190,189,India
+463152,South Africa,India,220,223,India
+463153,South Africa,India,265,142,South Africa
+463154,South Africa,India,250,234,South Africa
+464529,Australia,India,289,292,India
+464720,Netherlands,Ireland,125,129,Ireland
+464723,Ireland,Canada,175,163,Ireland
+464990,West Indies,,245,,
+464991,West Indies,Sri Lanka,203,199,West Indies
+464992,Sri Lanka,West Indies,277,251,Sri Lanka
+467883,India,New Zealand,276,236,India
+467884,New Zealand,India,258,259,India
+467885,New Zealand,India,224,229,India
+467886,New Zealand,India,315,321,India
+467887,New Zealand,India,103,107,India
+473315,Sri Lanka,,203,,
+473923,Pakistan,New Zealand,124,125,New Zealand
+473924,Pakistan,,31,,
+473925,Pakistan,New Zealand,293,250,Pakistan
+473926,New Zealand,Pakistan,262,264,Pakistan
+473927,Pakistan,New Zealand,268,227,Pakistan
+473928,New Zealand,Pakistan,311,254,New Zealand
+474467,England,Sri Lanka,229,121,England
+474468,Sri Lanka,England,309,240,Sri Lanka
+474469,England,Sri Lanka,246,249,Sri Lanka
+474470,Sri Lanka,England,174,171,Sri Lanka
+474471,England,Sri Lanka,268,252,England
+474477,India,England,274,27,India
+474478,India,England,187,188,England
+474479,India,England,234,218,India
+474480,India,England,280,270,India
+474481,India,England,304,241,India
+476596,Bangladesh,New Zealand,228,200,Bangladesh
+476598,New Zealand,Bangladesh,173,177,Bangladesh
+476599,Bangladesh,New Zealand,241,232,Bangladesh
+476600,Bangladesh,New Zealand,174,171,Bangladesh
+483126,England,Ireland,201,117,England
+486520,Zimbabwe,Bangladesh,209,200,Zimbabwe
+486522,Zimbabwe,Bangladesh,191,194,Bangladesh
+486523,Bangladesh,Zimbabwe,246,181,Bangladesh
+486526,Zimbabwe,Bangladesh,188,189,Bangladesh
+489213,West Indies,Pakistan,221,222,Pakistan
+489214,West Indies,Pakistan,220,223,Pakistan
+489215,West Indies,Pakistan,171,177,Pakistan
+489216,Pakistan,West Indies,248,154,Pakistan
+489217,Pakistan,West Indies,139,140,West Indies
+489221,West Indies,India,214,217,India
+489222,West Indies,India,240,183,West Indies
+489223,West Indies,India,225,228,India
+489224,West Indies,India,249,146,West Indies
+489225,India,West Indies,251,255,West Indies
+503363,Australia,Bangladesh,270,210,Australia
+503364,Bangladesh,Australia,229,232,Australia
+503365,Australia,Bangladesh,361,295,Australia
+504779,Netherlands,Scotland,180,162,Netherlands
+514025,Australia,South Africa,183,129,Australia
+514026,South Africa,Australia,303,223,South Africa
+514027,South Africa,Australia,222,227,Australia
+514035,South Africa,Sri Lanka,301,43,South Africa
+514036,Sri Lanka,South Africa,236,237,South Africa
+514037,Sri Lanka,South Africa,266,179,Sri Lanka
+514038,South Africa,Sri Lanka,299,304,Sri Lanka
+514039,South Africa,Sri Lanka,312,314,Sri Lanka
+516206,Sri Lanka,Australia,191,192,Australia
+516207,Sri Lanka,Australia,208,211,Australia
+516208,Sri Lanka,Australia,286,208,Sri Lanka
+516209,Sri Lanka,Australia,132,133,Australia
+516210,Australia,Sri Lanka,211,213,Sri Lanka
+518956,Australia,India,216,151,Australia
+518957,Sri Lanka,India,233,234,India
+518958,Australia,Sri Lanka,231,226,Australia
+518959,Australia,India,269,270,India
+518960,Sri Lanka,India,236,236,India
+518961,Australia,Sri Lanka,158,152,Australia
+518962,Australia,India,288,178,Australia
+518963,Sri Lanka,India,289,238,Sri Lanka
+518964,Australia,Sri Lanka,280,283,Sri Lanka
+518965,Australia,India,252,165,Australia
+518966,Sri Lanka,India,320,321,India
+518967,Sri Lanka,Australia,238,229,Sri Lanka
+518968,Australia,Sri Lanka,321,306,Australia
+518969,Australia,Sri Lanka,271,274,Sri Lanka
+518970,Australia,Sri Lanka,231,215,Australia
+520592,New Zealand,Zimbabwe,248,158,New Zealand
+520593,New Zealand,Zimbabwe,372,231,New Zealand
+520594,New Zealand,Zimbabwe,373,171,New Zealand
+520600,New Zealand,South Africa,253,254,South Africa
+520601,New Zealand,South Africa,230,231,South Africa
+520602,New Zealand,South Africa,206,208,South Africa
+521218,India,England,300,174,India
+521219,England,India,237,238,India
+521220,England,India,298,300,India
+521221,England,India,220,223,India
+521222,India,England,271,176,India
+522246,Bangladesh,Zimbabwe,184,186,Zimbabwe
+522247,Bangladesh,Zimbabwe,188,191,Zimbabwe
+522248,Zimbabwe,Bangladesh,250,245,Zimbabwe
+522249,Zimbabwe,Bangladesh,199,203,Bangladesh
+522250,Bangladesh,Zimbabwe,253,160,Bangladesh
+523732,Pakistan,Zimbabwe,247,242,Pakistan
+523733,Zimbabwe,Pakistan,225,228,Pakistan
+523734,Pakistan,Zimbabwe,270,242,Pakistan
+523804,Ireland,Canada,328,195,Ireland
+523805,Ireland,Canada,249,193,Ireland
+527014,Zimbabwe,New Zealand,231,232,New Zealand
+527015,Zimbabwe,New Zealand,259,261,New Zealand
+527016,New Zealand,Zimbabwe,328,329,Zimbabwe
+530427,Sri Lanka,Pakistan,131,132,Pakistan
+530428,Sri Lanka,Pakistan,235,210,Sri Lanka
+530429,Pakistan,Sri Lanka,257,236,Pakistan
+530430,Pakistan,Sri Lanka,200,174,Pakistan
+530431,Sri Lanka,Pakistan,218,219,Pakistan
+531631,England,Pakistan,260,130,England
+531632,England,Pakistan,250,230,England
+531633,Pakistan,England,222,226,England
+531634,Pakistan,England,237,241,England
+531983,West Indies,Bangladesh,298,258,West Indies
+531984,Bangladesh,West Indies,220,221,West Indies
+531985,West Indies,Bangladesh,61,62,Bangladesh
+534209,England,West Indies,288,172,England
+534210,West Indies,England,238,239,England
+534214,Ireland,,36,,
+534215,England,Australia,272,257,England
+534216,Australia,England,251,252,England
+534218,Australia,England,200,201,England
+534219,Australia,England,145,138,Australia
+534228,England,,37,,
+534229,South Africa,England,287,207,South Africa
+534230,South Africa,England,211,212,England
+534231,South Africa,England,220,224,England
+534232,England,South Africa,182,186,South Africa
+535794,Pakistan,Bangladesh,262,241,Pakistan
+535795,India,Sri Lanka,304,254,India
+535796,Sri Lanka,Pakistan,188,189,Pakistan
+535797,India,Bangladesh,289,293,Bangladesh
+535798,Pakistan,India,329,330,India
+535799,Sri Lanka,Bangladesh,232,212,Sri Lanka
+535800,Pakistan,Bangladesh,236,234,Pakistan
+536929,West Indies,India,211,213,India
+536930,West Indies,India,269,270,India
+536931,West Indies,India,260,244,West Indies
+536932,India,West Indies,418,265,India
+536933,India,West Indies,267,233,India
+538069,Bangladesh,Pakistan,91,93,Pakistan
+538070,Pakistan,Bangladesh,262,186,Pakistan
+538071,Pakistan,Bangladesh,177,119,Pakistan
+540168,Australia,West Indies,204,140,Australia
+540169,Australia,West Indies,154,163,West Indies
+540170,Australia,West Indies,220,220,West Indies
+540171,West Indies,Australia,294,252,West Indies
+540172,Australia,West Indies,281,251,Australia
+543881,Ireland,Kenya,200,201,Kenya
+543882,Ireland,Kenya,237,120,Ireland
+560923,New Zealand,West Indies,190,136,New Zealand
+560924,West Indies,New Zealand,315,260,West Indies
+560925,New Zealand,West Indies,249,161,New Zealand
+560926,West Indies,New Zealand,264,240,West Indies
+560927,West Indies,New Zealand,241,221,West Indies
+562439,Sri Lanka,Pakistan,135,135,Pakistan
+562440,Sri Lanka,Pakistan,280,204,Sri Lanka
+562441,Pakistan,,12,,
+562442,Sri Lanka,Pakistan,243,199,Sri Lanka
+562443,Pakistan,Sri Lanka,247,248,Sri Lanka
+564781,India,Sri Lanka,314,293,India
+564782,India,Sri Lanka,138,139,Sri Lanka
+564783,Sri Lanka,India,286,288,India
+564784,Sri Lanka,India,251,255,India
+564785,India,Sri Lanka,294,274,India
+565812,England,India,325,316,England
+565813,India,England,285,158,India
+565814,England,India,155,157,India
+565815,England,India,257,258,India
+565816,India,England,226,227,England
+566923,England,New Zealand,227,231,New Zealand
+566924,New Zealand,England,359,273,New Zealand
+566925,England,New Zealand,287,253,England
+566940,Ireland,England,269,274,England
+566942,Australia,England,315,227,Australia
+566943,England,,59,,
+566944,Australia,England,227,231,England
+566945,Australia,England,298,249,Australia
+566946,South Africa,England,175,179,England
+566947,Sri Lanka,India,181,182,India
+566948,India,England,129,124,India
+567358,South Africa,New Zealand,208,209,New Zealand
+567359,New Zealand,South Africa,279,252,New Zealand
+567360,New Zealand,South Africa,260,264,South Africa
+567368,South Africa,Pakistan,315,190,South Africa
+567369,South Africa,Pakistan,191,192,Pakistan
+567370,South Africa,Pakistan,343,309,South Africa
+567371,South Africa,Pakistan,234,236,Pakistan
+567372,Pakistan,South Africa,205,208,South Africa
+569240,England,New Zealand,258,259,New Zealand
+569241,New Zealand,England,269,270,England
+569242,New Zealand,England,185,186,England
+571145,Pakistan,Australia,198,199,Australia
+571146,Australia,Pakistan,248,249,Pakistan
+571147,Pakistan,Australia,244,250,Australia
+573014,Australia,Sri Lanka,305,198,Australia
+573015,Australia,Sri Lanka,170,172,Sri Lanka
+573016,Australia,Sri Lanka,74,75,Sri Lanka
+573017,Australia,Sri Lanka,222,14,Australia
+573018,Australia,Sri Lanka,247,215,Australia
+573022,West Indies,Australia,70,71,Australia
+573023,Australia,West Indies,266,212,Australia
+573024,Australia,West Indies,329,290,Australia
+573025,West Indies,Australia,220,221,Australia
+573026,Australia,West Indies,274,257,Australia
+578614,India,South Africa,331,305,India
+578615,Pakistan,West Indies,170,172,West Indies
+578616,England,Australia,269,221,England
+578617,Sri Lanka,New Zealand,138,139,New Zealand
+578618,South Africa,Pakistan,234,167,South Africa
+578619,West Indies,India,233,236,India
+578620,Australia,New Zealand,243,51,Australia
+578621,England,Sri Lanka,293,297,Sri Lanka
+578622,South Africa,West Indies,230,190,South Africa
+578623,Pakistan,India,165,102,Pakistan
+578624,England,New Zealand,169,159,England
+578625,Sri Lanka,Australia,253,233,Sri Lanka
+582188,New Zealand,Sri Lanka,250,118,New Zealand
+582189,New Zealand,Sri Lanka,188,200,Sri Lanka
+582190,New Zealand,Sri Lanka,131,131,Sri Lanka
+582191,Sri Lanka,,123,,
+587471,West Indies,Bangladesh,199,201,Bangladesh
+587472,Bangladesh,West Indies,292,132,Bangladesh
+587473,Bangladesh,West Indies,227,228,West Indies
+587474,West Indies,Bangladesh,211,136,West Indies
+587475,West Indies,Bangladesh,217,221,Bangladesh
+589308,India,Pakistan,227,228,Pakistan
+589309,Pakistan,India,250,165,Pakistan
+589310,India,Pakistan,167,157,India
+592266,Canada,Kenya,227,228,Kenya
+593983,West Indies,Zimbabwe,337,181,West Indies
+593985,Zimbabwe,West Indies,211,215,West Indies
+597923,Sri Lanka,West Indies,208,209,West Indies
+597924,India,West Indies,229,230,West Indies
+597925,Sri Lanka,India,348,187,Sri Lanka
+597926,India,West Indies,311,171,India
+597927,Sri Lanka,West Indies,219,190,Sri Lanka
+597928,India,Sri Lanka,119,96,India
+597929,Sri Lanka,India,201,203,India
+601077,Pakistan,Scotland,231,135,Pakistan
+601612,Pakistan,Ireland,266,275,Ireland
+601613,Ireland,Pakistan,229,230,Pakistan
+602474,Bangladesh,Sri Lanka,259,238,Bangladesh
+602475,Sri Lanka,,33,,
+602476,Sri Lanka,Bangladesh,302,184,Sri Lanka
+623573,Bangladesh,Zimbabwe,269,148,Bangladesh
+623574,Bangladesh,Zimbabwe,252,253,Zimbabwe
+623575,Bangladesh,Zimbabwe,247,251,Zimbabwe
+631138,Ireland,Netherlands,236,148,Ireland
+635653,Sri Lanka,South Africa,320,140,Sri Lanka
+635654,Sri Lanka,South Africa,223,104,Sri Lanka
+635655,South Africa,Sri Lanka,223,167,South Africa
+635656,South Africa,Sri Lanka,238,239,Sri Lanka
+635657,Sri Lanka,South Africa,307,179,Sri Lanka
+636159,England,Australia,269,270,Australia
+636160,England,Australia,300,301,Australia
+636161,England,Australia,243,244,Australia
+636162,England,Australia,316,259,England
+636163,Australia,England,217,212,Australia
+636533,West Indies,England,269,254,West Indies
+636534,West Indies,England,159,163,England
+636535,England,West Indies,303,278,England
+643665,Zimbabwe,India,228,230,India
+643667,India,Zimbabwe,294,236,India
+643669,Zimbabwe,India,183,187,India
+643675,Zimbabwe,India,144,145,India
+643677,Zimbabwe,India,163,167,India
+645635,Pakistan,West Indies,224,98,Pakistan
+645637,West Indies,Pakistan,232,195,West Indies
+645639,Pakistan,West Indies,229,229,West Indies
+645641,West Indies,Pakistan,261,189,West Indies
+645643,West Indies,Pakistan,242,243,Pakistan
+647249,Australia,India,304,232,Australia
+647251,Australia,India,359,362,India
+647253,India,Australia,303,304,Australia
+647255,Australia,India,295,27,Australia
+647259,Australia,India,350,351,India
+647261,India,Australia,383,326,India
+648651,South Africa,India,358,217,South Africa
+648653,South Africa,India,280,146,South Africa
+648655,South Africa,,301,,
+649091,South Africa,Pakistan,183,182,South Africa
+649093,Pakistan,South Africa,209,143,Pakistan
+649095,South Africa,Pakistan,259,191,South Africa
+649097,South Africa,Pakistan,266,238,South Africa
+649099,South Africa,Pakistan,268,151,South Africa
+656399,New Zealand,Sri Lanka,331,233,New Zealand
+656401,Australia,England,342,231,Australia
+656403,South Africa,Zimbabwe,339,277,South Africa
+656405,India,Pakistan,300,224,India
+656407,West Indies,Ireland,304,307,Ireland
+656409,Scotland,New Zealand,142,146,New Zealand
+656413,United Arab Emirates,Zimbabwe,285,286,Zimbabwe
+656415,England,New Zealand,123,125,New Zealand
+656417,West Indies,Pakistan,310,160,West Indies
+656423,India,South Africa,307,177,India
+656425,England,Scotland,303,184,England
+656427,West Indies,Zimbabwe,372,289,West Indies
+656429,United Arab Emirates,Ireland,278,279,Ireland
+656433,Sri Lanka,Bangladesh,332,240,Sri Lanka
+656435,South Africa,West Indies,408,151,South Africa
+656437,Australia,New Zealand,151,152,New Zealand
+656439,United Arab Emirates,India,102,104,India
+656441,England,Sri Lanka,309,312,Sri Lanka
+656443,Pakistan,Zimbabwe,235,215,Pakistan
+656445,South Africa,Ireland,411,210,South Africa
+656447,Pakistan,United Arab Emirates,339,210,Pakistan
+656451,Scotland,Bangladesh,318,322,Bangladesh
+656453,West Indies,India,182,185,India
+656455,Pakistan,South Africa,222,202,Pakistan
+656457,Ireland,Zimbabwe,331,326,Ireland
+656461,Australia,Sri Lanka,376,312,Australia
+656463,Bangladesh,England,275,260,Bangladesh
+656465,Ireland,India,259,260,India
+656467,Sri Lanka,Scotland,363,215,Sri Lanka
+656469,South Africa,United Arab Emirates,341,195,South Africa
+656471,Bangladesh,New Zealand,288,290,New Zealand
+656475,Zimbabwe,India,287,288,India
+656477,Scotland,Australia,130,133,Australia
+656479,United Arab Emirates,West Indies,175,176,West Indies
+656481,Ireland,Pakistan,237,241,Pakistan
+656483,Sri Lanka,South Africa,133,134,South Africa
+656485,India,Bangladesh,302,193,India
+656487,Pakistan,Australia,213,216,Australia
+656489,New Zealand,West Indies,393,250,New Zealand
+656491,South Africa,New Zealand,281,299,New Zealand
+656493,Australia,India,328,233,Australia
+656495,New Zealand,Australia,183,186,Australia
+657637,Pakistan,Sri Lanka,322,311,Pakistan
+657639,Pakistan,Sri Lanka,284,287,Sri Lanka
+657641,Pakistan,Sri Lanka,326,213,Pakistan
+657643,Sri Lanka,Pakistan,225,226,Pakistan
+657645,Pakistan,Sri Lanka,232,235,Sri Lanka
+659549,Pakistan,Zimbabwe,244,246,Zimbabwe
+659551,Pakistan,Zimbabwe,299,209,Pakistan
+659553,Pakistan,Zimbabwe,260,152,Pakistan
+660825,Netherlands,Canada,143,62,Netherlands
+660827,Canada,Netherlands,67,70,Netherlands
+660837,Scotland,Ireland,223,225,Ireland
+661685,New Zealand,West Indies,156,157,West Indies
+661689,New Zealand,West Indies,283,124,New Zealand
+661691,New Zealand,West Indies,285,134,New Zealand
+661693,West Indies,New Zealand,363,160,West Indies
+667641,New Zealand,India,292,268,New Zealand
+667643,New Zealand,India,271,277,India
+667645,New Zealand,India,314,314,India
+667647,India,New Zealand,278,280,New Zealand
+667649,New Zealand,India,303,216,New Zealand
+667723,India,England,304,161,India
+667725,England,India,227,228,India
+667727,England,India,206,212,India
+667729,England,India,294,253,England
+667889,England,Sri Lanka,247,144,England
+667891,Sri Lanka,England,256,99,Sri Lanka
+667893,Sri Lanka,England,67,73,England
+667895,Sri Lanka,England,300,293,Sri Lanka
+667897,England,Sri Lanka,219,222,Sri Lanka
+668953,Bangladesh,New Zealand,265,162,Bangladesh
+668955,Bangladesh,New Zealand,247,207,Bangladesh
+668957,New Zealand,Bangladesh,307,309,Bangladesh
+668961,Sri Lanka,New Zealand,288,13,Sri Lanka
+668963,Sri Lanka,New Zealand,138,203,New Zealand
+668965,Sri Lanka,New Zealand,211,126,Sri Lanka
+676529,West Indies,India,211,212,India
+676531,India,West Indies,288,289,West Indies
+676533,West Indies,India,263,266,India
+684679,England,Scotland,167,133,England
+685731,Pakistan,South Africa,218,195,Pakistan
+685733,Pakistan,South Africa,262,261,Pakistan
+685735,Pakistan,South Africa,179,181,South Africa
+690355,Sri Lanka,Bangladesh,180,167,Sri Lanka
+690357,Sri Lanka,Bangladesh,289,228,Sri Lanka
+690359,Bangladesh,Sri Lanka,240,246,Sri Lanka
+696731,Scotland,Canada,341,171,Scotland
+696733,Netherlands,Kenya,265,266,Kenya
+696747,Canada,Netherlands,210,212,Netherlands
+696759,Kenya,Scotland,260,261,Scotland
+702139,Ireland,West Indies,202,205,West Indies
+706767,Sri Lanka,Ireland,219,140,Sri Lanka
+710291,Sri Lanka,Pakistan,296,284,Sri Lanka
+710293,Bangladesh,India,279,280,India
+710297,India,Sri Lanka,264,265,Sri Lanka
+710301,India,Pakistan,245,249,Pakistan
+710305,Bangladesh,Pakistan,326,329,Pakistan
+710309,Bangladesh,Sri Lanka,204,208,Sri Lanka
+710311,Pakistan,Sri Lanka,260,261,Sri Lanka
+722339,South Africa,West Indies,279,164,South Africa
+722341,South Africa,West Indies,439,291,South Africa
+722343,West Indies,South Africa,122,124,South Africa
+722345,South Africa,West Indies,262,266,West Indies
+722347,South Africa,West Indies,361,230,South Africa
+727919,Australia,Pakistan,255,162,Australia
+727921,Pakistan,Australia,215,217,Australia
+727923,Australia,Pakistan,231,230,Australia
+727935,Scotland,Ireland,172,173,Ireland
+727937,Scotland,Ireland,221,225,Ireland
+727939,Ireland,Scotland,241,243,Scotland
+730083,South Africa,Sri Lanka,304,229,South Africa
+730085,Sri Lanka,South Africa,267,180,Sri Lanka
+730087,South Africa,Sri Lanka,339,257,South Africa
+730287,Bangladesh,West Indies,217,219,West Indies
+730289,West Indies,Bangladesh,247,70,West Indies
+730291,West Indies,Bangladesh,338,247,West Indies
+736437,South Africa,Zimbabwe,309,216,South Africa
+736439,South Africa,Zimbabwe,257,196,South Africa
+736441,Zimbabwe,South Africa,165,171,South Africa
+736443,Australia,Zimbabwe,350,152,Australia
+736445,Australia,South Africa,327,328,South Africa
+736447,South Africa,Zimbabwe,231,170,South Africa
+736449,Australia,Zimbabwe,209,211,Zimbabwe
+736451,Australia,South Africa,282,220,Australia
+736453,South Africa,Zimbabwe,271,208,South Africa
+736455,Australia,South Africa,217,221,South Africa
+736511,Hong Kong,United Arab Emirates,157,158,United Arab Emirates
+742619,New Zealand,Pakistan,246,250,Pakistan
+742621,Pakistan,New Zealand,252,255,New Zealand
+742623,Pakistan,New Zealand,364,217,Pakistan
+742625,New Zealand,Pakistan,299,292,New Zealand
+742627,New Zealand,Pakistan,275,207,New Zealand
+743943,England,New Zealand,408,198,England
+743945,New Zealand,England,398,365,New Zealand
+743947,England,New Zealand,302,306,New Zealand
+743949,New Zealand,England,349,350,England
+743951,New Zealand,England,283,192,New Zealand
+743973,Australia,Ireland,222,157,Australia
+743977,Australia,England,305,246,Australia
+743979,Australia,England,309,245,Australia
+743981,England,Australia,300,207,England
+743983,Australia,England,299,304,England
+743985,England,Australia,138,140,Australia
+744679,Bangladesh,India,272,153,Bangladesh
+744681,India,Bangladesh,105,58,India
+744683,India,,119,,
+745159,Sri Lanka,Pakistan,275,277,Pakistan
+745161,Sri Lanka,Pakistan,310,233,Sri Lanka
+745163,Pakistan,Sri Lanka,102,104,Sri Lanka
+749771,New Zealand,South Africa,230,236,South Africa
+749773,South Africa,New Zealand,282,210,South Africa
+749775,South Africa,,157,,
+749781,Sri Lanka,New Zealand,218,219,New Zealand
+749783,New Zealand,Sri Lanka,248,252,Sri Lanka
+749785,New Zealand,,145,,
+749787,Sri Lanka,New Zealand,276,280,New Zealand
+749789,New Zealand,Sri Lanka,360,252,New Zealand
+749791,New Zealand,Sri Lanka,315,195,New Zealand
+749793,Sri Lanka,New Zealand,287,253,Sri Lanka
+749795,Pakistan,New Zealand,210,213,New Zealand
+749797,New Zealand,Pakistan,369,250,New Zealand
+750663,Sri Lanka,England,317,292,Sri Lanka
+750665,England,Sri Lanka,185,186,Sri Lanka
+750667,Sri Lanka,England,242,236,Sri Lanka
+750669,England,Sri Lanka,265,267,Sri Lanka
+750671,Sri Lanka,England,239,240,England
+750673,Sri Lanka,England,292,202,Sri Lanka
+750675,Sri Lanka,England,302,215,Sri Lanka
+754723,Australia,South Africa,300,268,Australia
+754725,Australia,South Africa,154,157,South Africa
+754727,Australia,South Africa,329,256,Australia
+754729,South Africa,Australia,267,268,Australia
+754731,South Africa,Australia,280,275,South Africa
+754749,India,Australia,267,269,Australia
+754751,England,Australia,234,235,Australia
+754753,India,England,153,156,England
+754755,England,Australia,303,304,Australia
+754757,India,,69,,
+754759,India,England,200,201,England
+754761,Australia,England,278,166,Australia
+760787,Bangladesh,Zimbabwe,281,194,Bangladesh
+760789,Bangladesh,Zimbabwe,251,183,Bangladesh
+760791,Bangladesh,Zimbabwe,297,173,Bangladesh
+760793,Bangladesh,Zimbabwe,256,235,Bangladesh
+760795,Zimbabwe,Bangladesh,128,130,Bangladesh
+760889,Ireland,,56,,
+770121,West Indies,India,321,197,West Indies
+770123,India,West Indies,263,215,India
+770127,India,West Indies,330,271,India
+792289,India,Sri Lanka,363,194,India
+792291,Sri Lanka,India,274,275,India
+792293,Sri Lanka,India,242,245,India
+792295,India,Sri Lanka,404,251,India
+792297,Sri Lanka,India,286,288,India
+800469,England,South Africa,399,250,England
+800471,South Africa,England,262,263,England
+800473,England,South Africa,318,319,South Africa
+800475,England,South Africa,262,266,South Africa
+800477,England,South Africa,236,237,South Africa
+810829,Scotland,Ireland,216,220,Ireland
+817207,Bangladesh,South Africa,160,164,South Africa
+817209,South Africa,Bangladesh,162,167,Bangladesh
+817211,South Africa,Bangladesh,168,170,Bangladesh
+848843,South Africa,New Zealand,304,284,South Africa
+848845,South Africa,New Zealand,204,207,New Zealand
+848847,South Africa,New Zealand,283,221,South Africa
+858485,Bangladesh,Pakistan,329,250,Bangladesh
+858487,Pakistan,Bangladesh,239,240,Bangladesh
+858489,Pakistan,Bangladesh,250,251,Bangladesh
+860269,Sri Lanka,Pakistan,255,259,Pakistan
+860271,Pakistan,Sri Lanka,287,288,Sri Lanka
+860273,Pakistan,Sri Lanka,316,181,Pakistan
+860275,Sri Lanka,Pakistan,256,257,Pakistan
+860277,Sri Lanka,Pakistan,368,203,Sri Lanka
+868727,Pakistan,Zimbabwe,375,334,Pakistan
+868729,Zimbabwe,Pakistan,268,269,Pakistan
+868731,Pakistan,Zimbabwe,296,68,Pakistan
+870731,Bangladesh,India,307,228,Bangladesh
+870733,India,Bangladesh,200,200,Bangladesh
+870735,India,Bangladesh,317,240,India
+885959,India,Zimbabwe,255,251,India
+885965,India,Zimbabwe,271,209,India
+885967,India,Zimbabwe,276,193,India
+894287,New Zealand,Zimbabwe,303,304,Zimbabwe
+894289,Zimbabwe,New Zealand,235,236,New Zealand
+894291,New Zealand,Zimbabwe,273,235,New Zealand
+895807,India,Australia,309,310,Australia
+895809,India,Australia,308,309,Australia
+895811,India,Australia,295,296,Australia
+895813,Australia,India,348,323,Australia
+895815,Australia,India,330,331,India
+902641,England,Pakistan,216,217,Pakistan
+902643,England,Pakistan,283,188,England
+902645,Pakistan,England,208,210,England
+902647,England,Pakistan,355,271,England
+903593,South Africa,India,303,298,South Africa
+903595,India,South Africa,247,225,India
+903597,South Africa,India,270,252,South Africa
+903599,India,South Africa,299,264,India
+903601,South Africa,India,438,224,South Africa
+911049,Hong Kong,United Arab Emirates,298,209,Hong Kong
+913621,Sri Lanka,Ireland,377,241,Sri Lanka
+913623,Sri Lanka,England,286,286,England
+913625,Sri Lanka,England,254,256,England
+913627,Sri Lanka,England,248,16,Sri Lanka
+913629,Sri Lanka,England,305,309,England
+913631,England,Sri Lanka,324,202,England
+913649,Pakistan,Ireland,337,82,Pakistan
+913653,Pakistan,England,260,194,Pakistan
+913655,Pakistan,England,251,255,England
+913657,England,Pakistan,444,275,England
+913659,Pakistan,England,247,252,England
+913661,England,Pakistan,302,304,Pakistan
+914207,Sri Lanka,New Zealand,188,191,New Zealand
+914209,Sri Lanka,New Zealand,117,118,New Zealand
+914211,New Zealand,Sri Lanka,276,277,Sri Lanka
+914213,New Zealand,,75,,
+914215,New Zealand,Sri Lanka,294,258,New Zealand
+914227,New Zealand,Pakistan,280,210,New Zealand
+914231,New Zealand,Australia,307,148,New Zealand
+914233,New Zealand,Australia,281,283,Australia
+914235,New Zealand,Australia,246,191,New Zealand
+914265,Pakistan,New Zealand,290,265,Pakistan
+915777,West Indies,Sri Lanka,159,164,Sri Lanka
+915779,West Indies,Sri Lanka,214,225,Sri Lanka
+915781,West Indies,Sri Lanka,206,180,West Indies
+919607,Pakistan,Zimbabwe,259,128,Pakistan
+919609,Zimbabwe,Pakistan,276,256,Zimbabwe
+919611,Zimbabwe,Pakistan,161,162,Pakistan
+919613,Ireland,Zimbabwe,219,222,Zimbabwe
+919615,Ireland,Zimbabwe,268,270,Zimbabwe
+919617,Zimbabwe,Ireland,187,189,Ireland
+931390,Bangladesh,Zimbabwe,273,128,Bangladesh
+931392,Bangladesh,Zimbabwe,241,183,Bangladesh
+931394,Bangladesh,Zimbabwe,276,215,Bangladesh
+932849,South Africa,West Indies,188,191,West Indies
+932851,West Indies,Australia,116,117,Australia
+932853,South Africa,Australia,189,142,South Africa
+932855,Australia,South Africa,288,252,Australia
+932857,Australia,West Indies,265,266,West Indies
+932859,South Africa,West Indies,343,204,South Africa
+932861,South Africa,,8,,
+932863,West Indies,Australia,282,283,Australia
+932865,West Indies,South Africa,285,185,West Indies
+932867,Australia,West Indies,270,212,Australia
+936131,South Africa,Ireland,354,148,South Africa
+936133,Ireland,Australia,198,199,Australia
+936135,Australia,South Africa,294,295,South Africa
+936137,South Africa,Australia,361,219,South Africa
+936139,Australia,South Africa,371,372,South Africa
+936141,Australia,South Africa,167,168,South Africa
+936143,South Africa,Australia,327,296,South Africa
+936159,Sri Lanka,South Africa,181,185,South Africa
+936161,South Africa,Sri Lanka,307,186,South Africa
+936163,Sri Lanka,South Africa,163,164,South Africa
+936165,South Africa,Sri Lanka,367,327,South Africa
+936167,South Africa,Sri Lanka,384,296,South Africa
+995457,Sri Lanka,Australia,227,228,Australia
+995459,Sri Lanka,Australia,288,206,Sri Lanka
+995461,Sri Lanka,Australia,226,227,Australia
+995463,Sri Lanka,Australia,212,217,Australia
+995465,Sri Lanka,Australia,195,199,Australia
+997993,Scotland,United Arab Emirates,327,229,Scotland
+997995,United Arab Emirates,Scotland,228,229,Scotland
+1000887,Australia,Pakistan,268,176,Australia
+1000889,Australia,Pakistan,220,221,Pakistan
+1000891,Pakistan,Australia,263,265,Australia
+1000893,Australia,Pakistan,353,267,Australia
+1000895,Australia,Pakistan,369,312,Australia
+1001371,Australia,New Zealand,324,256,Australia
+1001373,Australia,New Zealand,378,262,Australia
+1001375,Australia,New Zealand,264,147,Australia
+1004283,Scotland,Hong Kong,153,136,Scotland
+1004285,Scotland,Hong Kong,266,213,Scotland
+1007649,Zimbabwe,India,168,173,India
+1007651,Zimbabwe,India,126,129,India
+1007653,Zimbabwe,India,123,126,India
+1019973,New Zealand,Bangladesh,341,264,New Zealand
+1019975,New Zealand,Bangladesh,251,184,New Zealand
+1019977,Bangladesh,New Zealand,236,239,New Zealand
+1020013,New Zealand,Australia,286,280,New Zealand
+1020017,New Zealand,Australia,281,257,New Zealand
+1020031,New Zealand,South Africa,207,210,South Africa
+1020033,New Zealand,South Africa,289,283,New Zealand
+1020035,South Africa,New Zealand,271,112,South Africa
+1020037,South Africa,New Zealand,279,280,New Zealand
+1020039,New Zealand,South Africa,149,150,South Africa
+1022347,Bangladesh,England,305,308,England
+1022349,New Zealand,Australia,291,53,New Zealand
+1022351,South Africa,Sri Lanka,299,203,South Africa
+1022353,India,Pakistan,319,164,India
+1022355,Bangladesh,Australia,182,83,Bangladesh
+1022357,England,New Zealand,310,223,England
+1022359,South Africa,Pakistan,219,119,South Africa
+1022361,India,Sri Lanka,321,322,Sri Lanka
+1022363,New Zealand,Bangladesh,265,268,Bangladesh
+1022365,Australia,England,277,240,Australia
+1022367,South Africa,India,191,193,India
+1022369,Sri Lanka,Pakistan,236,237,Pakistan
+1022371,England,Pakistan,211,215,Pakistan
+1022373,Bangladesh,India,264,265,India
+1022375,Pakistan,India,338,158,Pakistan
+1026847,Hong Kong,Papua New Guinea,269,163,Hong Kong
+1026849,Papua New Guinea,Hong Kong,201,187,Papua New Guinea
+1026851,Papua New Guinea,Hong Kong,244,181,Papua New Guinea
+1027315,England,West Indies,296,251,England
+1027317,West Indies,England,225,226,England
+1027319,England,West Indies,328,142,England
+1029001,Ireland,England,126,127,England
+1029003,England,Ireland,328,243,England
+1029819,England,Bangladesh,309,288,England
+1029821,Bangladesh,England,238,204,Bangladesh
+1029823,Bangladesh,England,277,278,England
+1030219,New Zealand,India,190,194,India
+1030221,New Zealand,India,242,236,New Zealand
+1030223,New Zealand,India,285,289,India
+1030225,New Zealand,India,260,241,New Zealand
+1030227,India,New Zealand,269,79,India
+1031425,England,South Africa,339,267,England
+1031427,England,South Africa,330,328,England
+1031429,England,South Africa,153,156,South Africa
+1031667,West Indies,England,204,210,England
+1031669,England,,21,,
+1031671,England,West Indies,369,245,England
+1031673,West Indies,England,356,258,West Indies
+1031675,West Indies,England,288,294,England
+1033361,Bangladesh,,157,,
+1033363,New Zealand,Ireland,289,238,New Zealand
+1033365,Bangladesh,New Zealand,257,258,New Zealand
+1033367,Ireland,Bangladesh,181,182,Bangladesh
+1033369,New Zealand,Ireland,344,154,New Zealand
+1033371,New Zealand,Bangladesh,270,271,Bangladesh
+1034819,England,India,350,356,India
+1034821,India,England,381,366,India
+1034823,England,India,321,316,England
+1050223,Pakistan,West Indies,284,175,Pakistan
+1050225,Pakistan,West Indies,337,278,Pakistan
+1050227,Pakistan,West Indies,308,172,Pakistan
+1059710,Zimbabwe,Sri Lanka,154,155,Sri Lanka
+1059711,West Indies,Sri Lanka,227,165,West Indies
+1059712,Zimbabwe,West Indies,257,257,West Indies
+1059713,Zimbabwe,,55,,
+1059714,Sri Lanka,West Indies,330,329,Sri Lanka
+1059715,Zimbabwe,West Indies,218,124,Zimbabwe
+1059716,Zimbabwe,Sri Lanka,160,166,Sri Lanka
+1068737,Papua New Guinea,United Arab Emirates,232,206,Papua New Guinea
+1072310,Australia,England,304,308,England
+1072311,Australia,England,270,274,England
+1072312,England,Australia,302,286,England
+1072313,England,Australia,196,197,Australia
+1072314,England,Australia,259,247,England
+1075504,Bangladesh,South Africa,278,282,South Africa
+1075505,South Africa,Bangladesh,353,249,South Africa
+1075506,South Africa,Bangladesh,369,169,South Africa
+1077949,Pakistan,West Indies,308,309,West Indies
+1077950,Pakistan,West Indies,282,208,Pakistan
+1077951,West Indies,Pakistan,233,236,Pakistan
+1078659,Scotland,Hong Kong,205,206,Hong Kong
+1078660,Scotland,United Arab Emirates,173,174,United Arab Emirates
+1078661,Hong Kong,United Arab Emirates,174,175,United Arab Emirates
+1080630,Ireland,United Arab Emirates,270,185,Ireland
+1080631,United Arab Emirates,Ireland,202,203,Ireland
+1083446,Bangladesh,Sri Lanka,324,234,Bangladesh
+1083447,Sri Lanka,,311,,
+1083448,Sri Lanka,Bangladesh,280,210,Sri Lanka
+1089183,United Arab Emirates,Papua New Guinea,251,148,United Arab Emirates
+1089419,Scotland,Zimbabwe,317,272,Scotland
+1089420,Scotland,Zimbabwe,169,171,Zimbabwe
+1098206,India,,199,,
+1098207,India,West Indies,310,205,India
+1098208,India,West Indies,251,158,India
+1098209,West Indies,India,189,178,West Indies
+1098210,West Indies,India,205,206,India
+1104478,Sri Lanka,Zimbabwe,316,322,Zimbabwe
+1104479,Zimbabwe,Sri Lanka,155,158,Sri Lanka
+1104480,Zimbabwe,Sri Lanka,310,312,Sri Lanka
+1104481,Sri Lanka,Zimbabwe,300,219,Sri Lanka
+1104482,Sri Lanka,Zimbabwe,203,204,Zimbabwe
+1109605,Sri Lanka,India,216,220,India
+1109606,Sri Lanka,India,236,231,Sri Lanka
+1109607,Sri Lanka,India,217,218,India
+1109608,India,Sri Lanka,375,207,India
+1109609,Sri Lanka,India,238,239,India
+1115775,England,New Zealand,284,287,New Zealand
+1115776,New Zealand,England,223,225,England
+1115777,England,New Zealand,234,230,England
+1115778,England,New Zealand,335,339,New Zealand
+1115779,New Zealand,England,223,229,England
+1115795,West Indies,New Zealand,248,249,New Zealand
+1115796,New Zealand,West Indies,325,121,New Zealand
+1115797,New Zealand,West Indies,131,99,New Zealand
+1115802,New Zealand,Pakistan,315,166,New Zealand
+1115803,Pakistan,New Zealand,246,151,Pakistan
+1115804,New Zealand,Pakistan,257,74,New Zealand
+1115805,Pakistan,New Zealand,262,263,New Zealand
+1115806,New Zealand,Pakistan,271,256,New Zealand
+1119496,India,Australia,281,137,India
+1119497,India,Australia,252,202,India
+1119498,Australia,India,293,294,India
+1119499,Australia,India,334,313,Australia
+1119500,Australia,India,242,243,India
+1119537,Australia,England,214,218,England
+1119538,England,Australia,342,304,England
+1119539,England,Australia,481,239,England
+1119540,Australia,England,310,314,England
+1119541,Australia,England,205,208,England
+1119546,England,India,268,269,India
+1119547,England,India,322,236,England
+1119548,India,England,256,260,England
+1120090,India,New Zealand,280,284,New Zealand
+1120091,New Zealand,India,230,232,India
+1120092,India,New Zealand,337,331,India
+1120286,Pakistan,Sri Lanka,292,209,Pakistan
+1120287,Pakistan,Sri Lanka,219,187,Pakistan
+1120288,Sri Lanka,Pakistan,208,209,Pakistan
+1120289,Sri Lanka,Pakistan,173,177,Pakistan
+1120290,Sri Lanka,Pakistan,103,105,Pakistan
+1122279,South Africa,India,269,270,India
+1122280,South Africa,India,118,119,India
+1122281,India,South Africa,303,179,India
+1122282,India,South Africa,289,207,India
+1122283,India,South Africa,274,201,India
+1122284,South Africa,India,204,206,India
+1122726,India,Sri Lanka,112,114,Sri Lanka
+1122727,India,Sri Lanka,392,251,India
+1122728,Sri Lanka,India,215,219,India
+1124089,Hong Kong,Papua New Guinea,230,207,Hong Kong
+1130737,Zimbabwe,Bangladesh,170,171,Bangladesh
+1130738,Zimbabwe,Sri Lanka,290,278,Zimbabwe
+1130739,Bangladesh,Sri Lanka,320,157,Bangladesh
+1130740,Zimbabwe,Sri Lanka,198,202,Sri Lanka
+1130741,Bangladesh,Zimbabwe,216,125,Bangladesh
+1130742,Bangladesh,Sri Lanka,82,83,Sri Lanka
+1130743,Sri Lanka,Bangladesh,221,142,Sri Lanka
+1131274,United Arab Emirates,Ireland,222,226,Ireland
+1131275,Ireland,United Arab Emirates,301,234,Ireland
+1131276,Scotland,Ireland,219,223,Ireland
+1131277,Ireland,Scotland,331,307,Ireland
+1131278,Scotland,United Arab Emirates,249,218,Scotland
+1131279,Scotland,United Arab Emirates,299,300,United Arab Emirates
+1133002,Papua New Guinea,Ireland,235,237,Ireland
+1133003,West Indies,United Arab Emirates,357,297,West Indies
+1133005,Hong Kong,Scotland,91,92,Scotland
+1133007,Papua New Guinea,West Indies,200,201,West Indies
+1133010,West Indies,Ireland,257,205,West Indies
+1133012,Zimbabwe,Hong Kong,263,174,Zimbabwe
+1133015,Ireland,United Arab Emirates,313,91,Ireland
+1133017,Zimbabwe,Scotland,210,210,Scotland
+1133019,Scotland,United Arab Emirates,322,249,Scotland
+1133022,Zimbabwe,Ireland,211,104,Zimbabwe
+1133023,Papua New Guinea,Hong Kong,200,142,Papua New Guinea
+1133025,Ireland,Scotland,271,246,Ireland
+1133026,Zimbabwe,West Indies,289,290,West Indies
+1133028,West Indies,Scotland,198,125,West Indies
+1133029,United Arab Emirates,Zimbabwe,235,226,United Arab Emirates
+1134540,United Arab Emirates,Papua New Guinea,221,113,United Arab Emirates
+1140379,England,,92,,
+1140380,England,Sri Lanka,278,140,England
+1140381,Sri Lanka,England,150,153,England
+1140382,Sri Lanka,England,273,132,Sri Lanka
+1140383,Sri Lanka,England,366,132,Sri Lanka
+1142584,Sri Lanka,South Africa,193,196,South Africa
+1142585,Sri Lanka,South Africa,244,246,South Africa
+1142586,South Africa,Sri Lanka,363,285,South Africa
+1142587,Sri Lanka,South Africa,306,187,Sri Lanka
+1142588,Sri Lanka,South Africa,299,121,Sri Lanka
+1142920,Pakistan,Zimbabwe,308,107,Pakistan
+1142921,Zimbabwe,Pakistan,194,195,Pakistan
+1142922,Zimbabwe,Pakistan,67,69,Pakistan
+1142923,Pakistan,Zimbabwe,399,155,Pakistan
+1142924,Pakistan,Zimbabwe,364,233,Pakistan
+1144146,Zimbabwe,South Africa,117,119,South Africa
+1144147,South Africa,Zimbabwe,198,78,South Africa
+1144148,Zimbabwe,South Africa,228,231,South Africa
+1144156,South Africa,Pakistan,266,267,Pakistan
+1144157,Pakistan,South Africa,203,207,South Africa
+1144158,Pakistan,South Africa,317,187,Pakistan
+1144159,South Africa,Pakistan,164,168,Pakistan
+1144160,Pakistan,South Africa,240,241,South Africa
+1144167,Sri Lanka,South Africa,231,232,South Africa
+1144168,South Africa,Sri Lanka,251,138,South Africa
+1144169,South Africa,Sri Lanka,331,121,South Africa
+1144170,Sri Lanka,South Africa,189,190,South Africa
+1144171,Sri Lanka,South Africa,225,135,Sri Lanka
+1144483,England,South Africa,311,207,England
+1144484,Pakistan,West Indies,105,108,West Indies
+1144485,Sri Lanka,New Zealand,136,137,New Zealand
+1144487,Bangladesh,South Africa,330,309,Bangladesh
+1144488,Pakistan,England,348,334,Pakistan
+1144490,South Africa,India,227,230,India
+1144491,Bangladesh,New Zealand,244,248,New Zealand
+1144492,Australia,West Indies,288,273,Australia
+1144494,England,Bangladesh,386,280,England
+1144496,India,Australia,352,316,India
+1144497,South Africa,,29,,
+1144499,Australia,Pakistan,307,266,Australia
+1144501,West Indies,England,212,213,England
+1144502,Australia,Sri Lanka,334,247,Australia
+1144504,India,Pakistan,336,212,India
+1144505,West Indies,Bangladesh,321,322,Bangladesh
+1144507,South Africa,New Zealand,241,245,New Zealand
+1144508,Australia,Bangladesh,381,333,Australia
+1144509,Sri Lanka,England,232,212,Sri Lanka
+1144511,New Zealand,West Indies,291,286,New Zealand
+1144512,Pakistan,South Africa,308,259,Pakistan
+1144514,Australia,England,285,221,Australia
+1144515,New Zealand,Pakistan,237,241,Pakistan
+1144516,India,West Indies,268,143,India
+1144517,Sri Lanka,South Africa,203,206,South Africa
+1144519,Australia,New Zealand,243,157,Australia
+1144520,England,India,337,306,England
+1144521,Sri Lanka,West Indies,338,315,Sri Lanka
+1144522,India,Bangladesh,314,286,India
+1144523,England,New Zealand,305,186,England
+1144525,Pakistan,Bangladesh,315,221,Pakistan
+1144526,Sri Lanka,India,264,265,India
+1144527,South Africa,Australia,325,315,South Africa
+1144528,New Zealand,India,239,221,New Zealand
+1144529,Australia,England,223,226,England
+1144530,New Zealand,England,241,241,England
+1144986,Australia,South Africa,152,153,South Africa
+1144987,Australia,South Africa,231,224,Australia
+1144988,South Africa,Australia,320,280,South Africa
+1144997,Australia,India,288,254,Australia
+1144998,Australia,India,298,299,India
+1144999,Australia,India,230,234,India
+1146720,Bangladesh,West Indies,279,231,Bangladesh
+1146721,West Indies,Bangladesh,271,268,West Indies
+1146722,Bangladesh,West Indies,301,283,Bangladesh
+1152841,Pakistan,,80,,
+1152842,England,Pakistan,373,361,England
+1152843,Pakistan,England,358,359,England
+1152844,Pakistan,England,340,341,England
+1152845,England,Pakistan,351,297,England
+1153243,Bangladesh,Sri Lanka,261,124,Bangladesh
+1153244,Hong Kong,Pakistan,116,120,Pakistan
+1153246,India,Hong Kong,285,259,India
+1153247,Pakistan,India,162,164,India
+1153249,Bangladesh,India,173,174,India
+1153251,Pakistan,India,237,238,India
+1153254,Bangladesh,Pakistan,239,202,Bangladesh
+1153255,Bangladesh,India,222,223,India
+1153314,West Indies,Bangladesh,195,196,Bangladesh
+1153315,Bangladesh,West Indies,255,256,West Indies
+1153316,West Indies,Bangladesh,198,202,Bangladesh
+1153635,Bangladesh,Zimbabwe,271,243,Bangladesh
+1153636,Zimbabwe,Bangladesh,246,250,Bangladesh
+1153637,Zimbabwe,Bangladesh,286,288,Bangladesh
+1153691,New Zealand,India,157,156,New Zealand
+1153692,India,New Zealand,324,234,India
+1153693,New Zealand,India,243,245,India
+1153694,India,New Zealand,92,93,New Zealand
+1153695,India,New Zealand,252,217,India
+1153840,New Zealand,Sri Lanka,371,326,New Zealand
+1153841,New Zealand,Sri Lanka,319,298,New Zealand
+1153842,New Zealand,Sri Lanka,364,249,New Zealand
+1153844,Bangladesh,New Zealand,232,233,New Zealand
+1153845,Bangladesh,New Zealand,226,229,New Zealand
+1153846,New Zealand,Bangladesh,330,242,New Zealand
+1154649,United Arab Emirates,Nepal,254,176,United Arab Emirates
+1157378,New Zealand,Pakistan,266,219,New Zealand
+1157379,New Zealand,Pakistan,209,212,Pakistan
+1157380,Pakistan,New Zealand,279,35,Pakistan
+1157754,West Indies,India,322,326,India
+1157755,India,West Indies,321,321,West Indies
+1157756,West Indies,India,283,240,West Indies
+1157757,India,West Indies,377,153,India
+1157758,West Indies,India,104,105,India
+1158066,West Indies,England,360,364,England
+1158067,West Indies,England,289,263,West Indies
+1158069,England,West Indies,418,389,England
+1158070,England,West Indies,113,115,West Indies
+1161014,Ireland,England,198,199,England
+1168242,Australia,India,236,240,India
+1168243,India,Australia,250,242,India
+1168244,Australia,India,313,281,Australia
+1168245,India,Australia,358,359,Australia
+1168246,Australia,India,272,237,Australia
+1168508,West Indies,Ireland,381,185,West Indies
+1168509,West Indies,Bangladesh,261,264,Bangladesh
+1168511,Ireland,West Indies,327,331,West Indies
+1168512,West Indies,Bangladesh,247,248,Bangladesh
+1168513,Ireland,Bangladesh,292,294,Bangladesh
+1168514,West Indies,Bangladesh,152,213,Bangladesh
+1168517,Zimbabwe,Ireland,254,258,Ireland
+1168518,Ireland,Zimbabwe,242,237,Ireland
+1168519,Zimbabwe,Ireland,190,191,Ireland
+1169332,Sri Lanka,Scotland,322,199,Sri Lanka
+1170454,Nepal,United Arab Emirates,113,116,United Arab Emirates
+1170455,Nepal,United Arab Emirates,242,97,Nepal
+1170456,United Arab Emirates,Nepal,254,255,Nepal
+1174238,Pakistan,Australia,280,281,Australia
+1174239,Pakistan,Australia,284,285,Australia
+1174240,Australia,Pakistan,266,186,Australia
+1174241,Australia,Pakistan,277,271,Australia
+1174242,Australia,Pakistan,327,307,Australia
+1174844,United States of America,Papua New Guinea,164,165,Papua New Guinea
+1174845,Namibia,Oman,226,81,Namibia
+1179272,United Arab Emirates,Zimbabwe,110,111,Zimbabwe
+1179273,United Arab Emirates,Zimbabwe,169,185,Zimbabwe
+1179275,United Arab Emirates,Zimbabwe,175,129,United Arab Emirates
+1183537,Australia,New Zealand,258,187,Australia
+1185310,England,South Africa,258,259,South Africa
+1185311,South Africa,,71,,
+1185312,South Africa,England,256,257,England
+1185319,South Africa,Australia,291,217,South Africa
+1185320,Australia,South Africa,271,274,South Africa
+1185321,Australia,South Africa,254,258,South Africa
+1187021,India,West Indies,287,291,West Indies
+1187022,India,West Indies,387,280,India
+1187023,West Indies,India,315,316,India
+1187027,India,Australia,255,258,Australia
+1187028,India,Australia,340,304,India
+1187029,Australia,India,286,289,India
+1187682,India,New Zealand,347,348,New Zealand
+1187683,New Zealand,India,273,251,New Zealand
+1187684,India,New Zealand,296,300,New Zealand
+1188377,Zimbabwe,Netherlands,205,208,Netherlands
+1188378,Zimbabwe,Netherlands,290,291,Netherlands
+1188624,West Indies,,54,,
+1188625,India,West Indies,279,210,India
+1188626,West Indies,India,240,256,India
+1193504,Sri Lanka,Bangladesh,314,223,Sri Lanka
+1193505,Bangladesh,Sri Lanka,238,242,Sri Lanka
+1193506,Sri Lanka,Bangladesh,294,172,Sri Lanka
+1196670,Papua New Guinea,Oman,229,234,Oman
+1196671,Scotland,Oman,168,169,Oman
+1196672,Papua New Guinea,Scotland,205,207,Scotland
+1196673,Scotland,Oman,223,138,Scotland
+1196674,Scotland,Papua New Guinea,242,204,Scotland
+1196675,Papua New Guinea,Oman,206,207,Oman
+1198238,Australia,England,294,275,Australia
+1198239,England,Australia,231,207,England
+1198240,England,Australia,302,305,Australia
+1198247,Ireland,England,172,174,England
+1198248,Ireland,England,212,216,England
+1198249,England,Ireland,328,329,Ireland
+1198487,Pakistan,Sri Lanka,305,238,Pakistan
+1198488,Sri Lanka,Pakistan,297,299,Pakistan
+1199225,United States of America,Papua New Guinea,251,159,United States of America
+1199226,Namibia,United States of America,121,122,United States of America
+1199227,United States of America,Papua New Guinea,177,115,United States of America
+1199229,Papua New Guinea,Namibia,219,222,Namibia
+1199230,Namibia,Papua New Guinea,260,233,Namibia
+1203673,Ireland,West Indies,180,184,West Indies
+1203674,Ireland,West Indies,237,242,West Indies
+1203675,Ireland,West Indies,203,199,Ireland
+1206059,United Arab Emirates,United States of America,202,206,United States of America
+1206060,United States of America,Scotland,282,247,United States of America
+1206062,United States of America,United Arab Emirates,213,115,United States of America
+1206063,United States of America,Scotland,245,246,Scotland
+1206064,Scotland,United Arab Emirates,220,224,United Arab Emirates
+1211169,United Arab Emirates,Oman,170,171,Oman
+1211170,United Arab Emirates,Namibia,222,214,United Arab Emirates
+1211171,Namibia,Oman,324,272,Namibia
+1211173,Namibia,United Arab Emirates,94,95,United Arab Emirates
+1213871,West Indies,Sri Lanka,289,290,Sri Lanka
+1213872,Sri Lanka,West Indies,345,184,Sri Lanka
+1213873,Sri Lanka,West Indies,307,301,Sri Lanka
+1214667,Bangladesh,Zimbabwe,321,152,Bangladesh
+1214668,Bangladesh,Zimbabwe,322,318,Bangladesh
+1214669,Bangladesh,Zimbabwe,322,218,Bangladesh
+1215122,Oman,Nepal,197,179,Oman
+1215123,United States of America,Oman,213,214,Oman
+1215124,Nepal,United States of America,190,155,Nepal
+1215125,Nepal,Oman,249,250,Oman
+1215126,Oman,United States of America,276,184,Oman
+1215127,United States of America,Nepal,35,36,Nepal
+1223955,Australia,India,374,308,Australia
+1223956,Australia,India,389,338,Australia
+1223957,India,Australia,302,289,India
+1233461,Pakistan,Zimbabwe,281,255,Pakistan
+1233462,Zimbabwe,Pakistan,206,208,Pakistan
+1233463,Zimbabwe,Pakistan,278,278,Pakistan
+1233976,Bangladesh,New Zealand,131,132,New Zealand
+1233977,Bangladesh,New Zealand,271,275,New Zealand
+1233978,New Zealand,Bangladesh,318,154,New Zealand
+1239534,Sri Lanka,England,185,189,England
+1239535,Sri Lanka,England,241,244,England
+1239536,Sri Lanka,,166,,
+1239537,Pakistan,England,141,142,England
+1239538,England,Pakistan,247,195,England
+1239539,Pakistan,England,331,332,England
+1243393,India,England,317,251,India
+1243394,India,England,336,337,England
+1243395,India,England,329,322,India
+1244022,West Indies,Bangladesh,122,125,Bangladesh
+1244023,West Indies,Bangladesh,148,149,Bangladesh
+1244024,Bangladesh,West Indies,297,177,Bangladesh
+1244524,Ireland,United Arab Emirates,269,270,United Arab Emirates
+1244525,Ireland,United Arab Emirates,228,116,Ireland
+1251572,South Africa,Pakistan,273,274,Pakistan
+1251573,South Africa,Pakistan,341,324,South Africa
+1251574,Pakistan,South Africa,320,292,Pakistan
+1251950,Ireland,,195,,
+1251951,Ireland,South Africa,290,247,Ireland
+1251952,South Africa,Ireland,346,276,South Africa
+1251962,Netherlands,Ireland,195,194,Netherlands
+1251963,Netherlands,Ireland,157,158,Ireland
+1251964,Ireland,Netherlands,163,166,Netherlands
+1252069,Sri Lanka,West Indies,232,236,West Indies
+1252070,Sri Lanka,West Indies,273,274,West Indies
+1252071,Sri Lanka,West Indies,274,276,West Indies
+1260084,Netherlands,Scotland,163,149,Netherlands
+1260085,Netherlands,Scotland,171,172,Scotland
+1262344,Bangladesh,Sri Lanka,257,224,Bangladesh
+1262346,Bangladesh,Sri Lanka,246,141,Bangladesh
+1262347,Sri Lanka,Bangladesh,286,189,Sri Lanka
+1262755,Sri Lanka,India,262,263,India
+1262756,Sri Lanka,India,275,277,India
+1262757,India,Sri Lanka,225,227,Sri Lanka
+1263161,Australia,West Indies,252,123,Australia
+1263162,Australia,West Indies,187,191,West Indies
+1263163,West Indies,Australia,152,153,Australia
+1267677,Bangladesh,Zimbabwe,276,121,Bangladesh
+1267678,Zimbabwe,Bangladesh,240,242,Bangladesh
+1267679,Zimbabwe,Bangladesh,298,302,Bangladesh
+1271627,Sri Lanka,South Africa,300,286,Sri Lanka
+1271628,South Africa,Sri Lanka,283,197,South Africa
+1271629,Sri Lanka,South Africa,203,125,Sri Lanka
+1272379,Zimbabwe,Ireland,266,228,Zimbabwe
+1272380,Ireland,,282,,
+1272381,Zimbabwe,Ireland,131,118,Zimbabwe
+1275249,United States of America,Nepal,230,231,Nepal
+1275250,Nepal,Oman,196,200,Oman
+1275251,United States of America,Oman,178,179,Oman
+1275253,Oman,Nepal,121,122,Nepal
+1275255,Papua New Guinea,Scotland,197,198,Scotland
+1275256,Oman,Papua New Guinea,250,140,Oman
+1275257,Scotland,Oman,273,255,Scotland
+1275258,Papua New Guinea,Scotland,226,228,Scotland
+1275259,Papua New Guinea,Oman,150,151,Oman
+1275260,Scotland,,100,,
+1276293,Papua New Guinea,United States of America,158,159,United States of America
+1276294,United States of America,Papua New Guinea,271,137,United States of America
+1276295,Papua New Guinea,Nepal,134,135,Nepal
+1276296,Nepal,Papua New Guinea,233,82,Nepal
+1276907,England,India,110,114,India
+1276908,England,India,246,146,England
+1276909,England,India,259,261,India
+1276910,South Africa,England,333,271,South Africa
+1276911,England,South Africa,201,83,England
+1276912,South Africa,,159,,
+1277073,South Africa,Netherlands,277,11,South Africa
+1277082,South Africa,India,296,265,South Africa
+1277083,India,South Africa,287,288,South Africa
+1277084,South Africa,India,287,283,South Africa
+1277085,West Indies,Ireland,269,245,West Indies
+1277086,West Indies,Ireland,229,168,West Indies
+1277087,West Indies,Ireland,212,214,Ireland
+1277097,Bangladesh,South Africa,314,276,Bangladesh
+1277098,Bangladesh,South Africa,194,195,South Africa
+1277099,South Africa,Bangladesh,154,156,Bangladesh
+1278676,West Indies,India,176,178,India
+1278677,India,West Indies,237,193,India
+1278678,India,West Indies,265,169,India
+1281444,England,Netherlands,498,266,England
+1281445,Netherlands,England,235,239,England
+1281446,Netherlands,England,244,248,England
+1288313,Australia,Pakistan,313,225,Australia
+1288314,Australia,Pakistan,348,349,Pakistan
+1288315,Australia,Pakistan,210,214,Pakistan
+1288987,Netherlands,New Zealand,202,204,New Zealand
+1288988,New Zealand,Netherlands,264,146,New Zealand
+1288989,New Zealand,Netherlands,333,218,New Zealand
+1290881,Namibia,Oman,228,188,Namibia
+1294969,Zimbabwe,Sri Lanka,296,300,Sri Lanka
+1294970,Zimbabwe,Sri Lanka,302,280,Zimbabwe
+1294971,Sri Lanka,Zimbabwe,254,70,Sri Lanka
+1299586,Oman,United Arab Emirates,307,308,United Arab Emirates
+1299587,Oman,United Arab Emirates,195,196,United Arab Emirates
+1299588,Oman,United Arab Emirates,214,214,United Arab Emirates
+1302349,Netherlands,West Indies,240,249,West Indies
+1302350,Netherlands,West Indies,214,217,West Indies
+1302351,West Indies,Netherlands,308,288,West Indies
+1302616,Oman,United Arab Emirates,225,213,Oman
+1302617,Namibia,Oman,226,116,Namibia
+1302618,Namibia,United Arab Emirates,206,207,United Arab Emirates
+1302619,Oman,United Arab Emirates,221,213,Oman
+1302620,Namibia,Oman,275,276,Oman
+1302621,United Arab Emirates,Namibia,348,305,United Arab Emirates
+1302622,Oman,Namibia,265,266,Namibia
+1302623,Papua New Guinea,United Arab Emirates,176,179,United Arab Emirates
+1302624,Papua New Guinea,Nepal,204,208,Nepal
+1302625,United Arab Emirates,Nepal,168,120,United Arab Emirates
+1302626,United Arab Emirates,Papua New Guinea,147,150,Papua New Guinea
+1302627,United Arab Emirates,Nepal,202,103,United Arab Emirates
+1302628,Papua New Guinea,Nepal,173,174,Nepal
+1303309,Ireland,New Zealand,300,305,New Zealand
+1303310,Ireland,New Zealand,216,219,New Zealand
+1303311,New Zealand,Ireland,360,359,New Zealand
+1305496,Papua New Guinea,Nepal,292,286,Papua New Guinea
+1305497,Nepal,Papua New Guinea,278,283,Papua New Guinea
+1307296,Sri Lanka,Australia,300,282,Sri Lanka
+1307297,Sri Lanka,Australia,220,189,Sri Lanka
+1307298,Australia,Sri Lanka,291,292,Sri Lanka
+1307299,Sri Lanka,Australia,258,254,Sri Lanka
+1307300,Sri Lanka,Australia,160,164,Australia
+1307479,Scotland,New Zealand,306,307,New Zealand
+1308244,Scotland,Papua New Guinea,284,122,Scotland
+1308245,Scotland,Oman,215,211,Scotland
+1308246,Papua New Guinea,Oman,224,227,Oman
+1308247,Scotland,Papua New Guinea,287,164,Scotland
+1308248,Oman,Scotland,225,226,Scotland
+1308249,Oman,Papua New Guinea,277,192,Oman
+1311737,Pakistan,Netherlands,314,298,Pakistan
+1311738,Netherlands,Pakistan,186,191,Pakistan
+1311739,Pakistan,Netherlands,206,197,Pakistan
+1312798,United States of America,Scotland,310,206,United States of America
+1312799,Scotland,United States of America,300,189,Scotland
+1312800,United Arab Emirates,Scotland,215,217,Scotland
+1312801,United Arab Emirates,United States of America,203,204,United States of America
+1312802,Scotland,United Arab Emirates,171,172,United Arab Emirates
+1312803,United States of America,United Arab Emirates,198,200,United Arab Emirates
+1312804,United States of America,Oman,323,209,United States of America
+1312805,Oman,Nepal,211,198,Oman
+1312806,Nepal,United States of America,274,274,United States of America
+1312807,Oman,United States of America,280,267,Oman
+1312808,Oman,Nepal,163,167,Nepal
+1312809,United States of America,Nepal,245,206,United States of America
+1315038,West Indies,Pakistan,305,306,Pakistan
+1315039,Pakistan,West Indies,275,155,Pakistan
+1315040,Pakistan,West Indies,269,216,Pakistan
+1317152,West Indies,Bangladesh,149,151,Bangladesh
+1317153,West Indies,Bangladesh,108,112,Bangladesh
+1317154,West Indies,Bangladesh,178,179,Bangladesh
+1317476,Zimbabwe,Australia,200,201,Australia
+1317477,Zimbabwe,Australia,96,100,Australia
+1317478,Australia,Zimbabwe,141,142,Zimbabwe
+1317479,New Zealand,Australia,232,233,Australia
+1317480,Australia,New Zealand,195,82,Australia
+1317481,Australia,New Zealand,267,242,Australia
+1317489,England,Australia,287,291,Australia
+1317490,Australia,England,280,208,Australia
+1317491,Australia,England,355,142,Australia
+1317900,India,West Indies,308,305,India
+1317901,West Indies,India,311,312,India
+1317902,India,West Indies,225,137,India
+1317911,New Zealand,West Indies,190,193,West Indies
+1317912,New Zealand,West Indies,212,161,New Zealand
+1317913,West Indies,New Zealand,301,307,New Zealand
+1322031,Namibia,Nepal,220,180,Namibia
+1322032,Scotland,Nepal,144,146,Nepal
+1322033,Namibia,Scotland,215,219,Scotland
+1322034,Namibia,Nepal,199,136,Namibia
+1322035,Nepal,Scotland,128,130,Scotland
+1322036,Scotland,United Arab Emirates,262,198,Scotland
+1322037,United Arab Emirates,United States of America,253,256,United States of America
+1322038,United States of America,Scotland,295,301,Scotland
+1322039,Scotland,United Arab Emirates,254,168,Scotland
+1322041,Scotland,United States of America,249,250,United States of America
+1322278,India,New Zealand,306,309,New Zealand
+1322279,India,,89,,
+1322280,India,New Zealand,219,104,India
+1322359,New Zealand,Sri Lanka,274,76,New Zealand
+1322361,Sri Lanka,New Zealand,157,159,New Zealand
+1323292,Bangladesh,Zimbabwe,303,307,Zimbabwe
+1323293,Bangladesh,Zimbabwe,290,291,Zimbabwe
+1323294,Bangladesh,Zimbabwe,256,151,Bangladesh
+1325549,Zimbabwe,India,189,192,India
+1325550,Zimbabwe,India,161,167,India
+1325551,India,Zimbabwe,289,276,India
+1327509,South Africa,India,249,240,South Africa
+1327510,South Africa,India,278,282,India
+1327511,South Africa,India,99,105,India
+1331365,United States of America,Papua New Guinea,205,205,Papua New Guinea
+1331366,Papua New Guinea,United States of America,211,185,Papua New Guinea
+1331367,Namibia,United States of America,176,97,Namibia
+1331368,Namibia,United States of America,254,186,Namibia
+1331369,Namibia,Papua New Guinea,284,117,Namibia
+1331370,Namibia,Papua New Guinea,214,153,Namibia
+1336052,England,New Zealand,291,297,New Zealand
+1336053,England,New Zealand,226,147,England
+1336054,England,New Zealand,368,187,England
+1336055,England,New Zealand,311,211,England
+1336129,England,Ireland,334,286,England
+1336130,England,,280,,
+1339595,South Africa,England,298,271,South Africa
+1339596,England,South Africa,342,347,South Africa
+1339597,England,South Africa,346,287,England
+1339602,West Indies,South Africa,335,287,West Indies
+1339603,West Indies,South Africa,260,264,South Africa
+1339607,Netherlands,South Africa,189,190,South Africa
+1339608,South Africa,Netherlands,370,224,South Africa
+1339611,New Zealand,Pakistan,255,258,Pakistan
+1339612,New Zealand,Pakistan,261,182,New Zealand
+1339613,Pakistan,New Zealand,280,281,New Zealand
+1339619,New Zealand,Pakistan,288,291,Pakistan
+1339620,New Zealand,Pakistan,336,337,Pakistan
+1339621,Pakistan,New Zealand,287,261,Pakistan
+1339622,Pakistan,New Zealand,334,232,Pakistan
+1339623,New Zealand,Pakistan,299,252,New Zealand
+1340845,India,Bangladesh,186,187,Bangladesh
+1340846,Bangladesh,India,271,266,Bangladesh
+1340847,India,Bangladesh,409,182,India
+1341969,Papua New Guinea,Namibia,107,108,Namibia
+1341970,United States of America,Namibia,244,173,United States of America
+1341971,Papua New Guinea,United States of America,149,152,United States of America
+1341972,Papua New Guinea,Namibia,236,241,Namibia
+1341973,United States of America,Papua New Guinea,266,231,United States of America
+1341974,United States of America,Namibia,211,212,Namibia
+1341975,Namibia,Scotland,211,213,Scotland
+1341976,Nepal,Namibia,197,4,Nepal
+1341977,Nepal,Scotland,137,143,Scotland
+1341978,Scotland,Namibia,208,210,Namibia
+1341979,Namibia,Nepal,275,189,Namibia
+1341980,Nepal,Scotland,119,121,Scotland
+1343683,United Arab Emirates,Nepal,263,179,United Arab Emirates
+1343684,United Arab Emirates,Nepal,191,193,Nepal
+1343685,United Arab Emirates,Nepal,176,180,Nepal
+1348326,Ireland,Zimbabwe,288,214,Ireland
+1348327,Ireland,Zimbabwe,294,248,Ireland
+1348328,Zimbabwe,,55,,
+1348643,India,Sri Lanka,373,306,India
+1348644,Sri Lanka,India,215,219,India
+1348645,India,Sri Lanka,390,73,India
+1348646,India,New Zealand,349,337,India
+1348647,New Zealand,India,108,111,India
+1348648,India,New Zealand,385,295,India
+1348656,Australia,India,188,191,India
+1348657,India,Australia,117,121,Australia
+1348658,Australia,India,269,248,Australia
+1351397,Bangladesh,England,209,212,England
+1351398,England,Bangladesh,326,194,England
+1351399,Bangladesh,England,246,196,Bangladesh
+1355717,Bangladesh,Ireland,338,155,Bangladesh
+1355718,Bangladesh,,349,,
+1355719,Ireland,Bangladesh,101,102,Bangladesh
+1358073,Namibia,Nepal,285,287,Nepal
+1358074,Namibia,Scotland,153,157,Scotland
+1358075,Scotland,Nepal,274,275,Nepal
+1358076,Namibia,Nepal,274,278,Nepal
+1358077,Scotland,Namibia,221,178,Scotland
+1358078,Scotland,Nepal,212,213,Nepal
+1358079,Namibia,United Arab Emirates,91,95,United Arab Emirates
+1358080,United Arab Emirates,Namibia,166,167,Namibia
+1358082,Papua New Guinea,United Arab Emirates,262,131,Papua New Guinea
+1358083,United Arab Emirates,Nepal,207,139,United Arab Emirates
+1358084,Papua New Guinea,Nepal,179,182,Nepal
+1358085,United Arab Emirates,Papua New Guinea,97,98,Papua New Guinea
+1358086,Nepal,United Arab Emirates,229,187,Nepal
+1358087,Nepal,Papua New Guinea,297,245,Nepal
+1358088,Papua New Guinea,United Arab Emirates,246,190,Papua New Guinea
+1358089,Nepal,United Arab Emirates,248,71,Nepal
+1358090,Papua New Guinea,Nepal,95,100,Nepal
+1358091,Papua New Guinea,United Arab Emirates,234,236,United Arab Emirates
+1358092,United Arab Emirates,Nepal,310,269,United Arab Emirates
+1362379,Zimbabwe,Netherlands,249,255,Netherlands
+1362380,Zimbabwe,Netherlands,271,270,Zimbabwe
+1362381,Netherlands,Zimbabwe,231,235,Zimbabwe
+1364124,Bangladesh,Ireland,246,65,Bangladesh
+1364125,Ireland,Bangladesh,319,320,Bangladesh
+1365092,United States of America,Namibia,231,151,United States of America
+1365093,United Arab Emirates,Papua New Guinea,260,239,United Arab Emirates
+1365095,Canada,United States of America,198,172,Canada
+1365097,Jersey,Namibia,213,216,Namibia
+1365098,United Arab Emirates,United States of America,279,281,United States of America
+1365099,Canada,United Arab Emirates,254,255,United Arab Emirates
+1365100,Jersey,Papua New Guinea,291,280,Jersey
+1365101,United States of America,Papua New Guinea,235,118,United States of America
+1365102,United Arab Emirates,Namibia,267,239,United Arab Emirates
+1365103,Namibia,Canada,267,156,Namibia
+1365104,United States of America,Jersey,231,206,United States of America
+1365105,United Arab Emirates,Jersey,284,218,United Arab Emirates
+1365106,Canada,Papua New Guinea,218,128,Canada
+1365552,Bangladesh,Ireland,274,269,Bangladesh
+1367985,Nepal,Oman,310,226,Nepal
+1368000,United Arab Emirates,Oman,236,190,United Arab Emirates
+1368002,United Arab Emirates,Nepal,117,118,Nepal
+1373571,South Africa,Australia,222,225,Australia
+1373572,Australia,South Africa,392,269,Australia
+1373573,South Africa,Australia,338,227,South Africa
+1373574,South Africa,Australia,416,252,South Africa
+1373575,South Africa,Australia,315,193,South Africa
+1373576,England,West Indies,325,326,West Indies
+1373577,West Indies,England,202,206,England
+1373578,England,West Indies,206,191,England
+1375847,West Indies,Australia,231,232,Australia
+1375848,Australia,West Indies,258,175,Australia
+1375849,West Indies,Australia,86,87,Australia
+1377005,United Arab Emirates,West Indies,202,206,West Indies
+1377006,West Indies,United Arab Emirates,306,228,West Indies
+1377007,United Arab Emirates,West Indies,184,185,West Indies
+1377746,Nepal,Zimbabwe,290,291,Zimbabwe
+1377747,West Indies,United States of America,297,258,West Indies
+1377748,Sri Lanka,United Arab Emirates,355,180,Sri Lanka
+1377749,Ireland,Oman,281,285,Oman
+1377750,Netherlands,Zimbabwe,315,319,Zimbabwe
+1377751,United States of America,Nepal,207,211,Nepal
+1377752,Ireland,Scotland,286,289,Scotland
+1377753,United Arab Emirates,Oman,227,228,Oman
+1377754,West Indies,Nepal,339,238,West Indies
+1377755,United States of America,Netherlands,211,214,Netherlands
+1377756,Oman,Sri Lanka,98,100,Sri Lanka
+1377757,Scotland,United Arab Emirates,282,171,Scotland
+1377758,Zimbabwe,West Indies,268,233,Zimbabwe
+1377759,Nepal,Netherlands,167,168,Netherlands
+1377760,Sri Lanka,Ireland,325,192,Sri Lanka
+1377761,Scotland,Oman,320,244,Scotland
+1377762,Zimbabwe,United States of America,408,104,Zimbabwe
+1377763,West Indies,Netherlands,374,374,Netherlands
+1377764,Sri Lanka,Scotland,245,163,Sri Lanka
+1377765,Ireland,United Arab Emirates,349,211,Ireland
+1377766,Zimbabwe,Oman,332,318,Zimbabwe
+1377767,Sri Lanka,Netherlands,213,192,Sri Lanka
+1377768,United States of America,Ireland,196,197,Ireland
+1377769,West Indies,Scotland,181,185,Scotland
+1377770,Zimbabwe,Sri Lanka,165,169,Sri Lanka
+1377771,United Arab Emirates,Nepal,181,185,Nepal
+1377772,Netherlands,Oman,362,246,Netherlands
+1377773,Scotland,Zimbabwe,234,203,Scotland
+1377774,Nepal,Ireland,268,269,Ireland
+1377775,Oman,West Indies,221,222,West Indies
+1377776,Scotland,Netherlands,277,278,Netherlands
+1377777,United Arab Emirates,United States of America,308,307,United Arab Emirates
+1377778,West Indies,Sri Lanka,243,244,Sri Lanka
+1377779,Sri Lanka,Netherlands,233,105,Sri Lanka
+1381214,West Indies,India,114,118,India
+1381215,India,West Indies,181,182,West Indies
+1381216,India,West Indies,351,151,India
+1384392,England,New Zealand,282,283,New Zealand
+1384393,Pakistan,Netherlands,286,205,Pakistan
+1384395,South Africa,Sri Lanka,428,326,South Africa
+1384396,Australia,India,199,201,India
+1384397,New Zealand,Netherlands,322,223,New Zealand
+1384398,England,Bangladesh,364,227,England
+1384399,Sri Lanka,Pakistan,344,345,Pakistan
+1384401,South Africa,Australia,311,177,South Africa
+1384402,Bangladesh,New Zealand,245,248,New Zealand
+1384403,Pakistan,India,191,192,India
+1384405,Sri Lanka,Australia,209,215,Australia
+1384406,Netherlands,South Africa,245,207,Netherlands
+1384408,Bangladesh,India,256,261,India
+1384409,Australia,Pakistan,367,305,Australia
+1384410,Netherlands,Sri Lanka,262,263,Sri Lanka
+1384411,South Africa,England,399,170,South Africa
+1384412,New Zealand,India,273,274,India
+1384414,South Africa,Bangladesh,382,233,South Africa
+1384415,Australia,Netherlands,399,90,Australia
+1384416,England,Sri Lanka,156,160,Sri Lanka
+1384417,Pakistan,South Africa,270,271,South Africa
+1384418,Australia,New Zealand,388,383,Australia
+1384419,Netherlands,Bangladesh,229,142,Netherlands
+1384420,India,England,229,129,India
+1384422,Bangladesh,Pakistan,204,205,Pakistan
+1384423,South Africa,New Zealand,357,167,South Africa
+1384424,India,Sri Lanka,357,55,India
+1384426,New Zealand,Pakistan,401,200,New Zealand
+1384427,Australia,England,286,253,Australia
+1384428,India,South Africa,326,83,India
+1384429,Sri Lanka,Bangladesh,279,282,Bangladesh
+1384431,England,Netherlands,339,179,England
+1384432,Sri Lanka,New Zealand,171,172,New Zealand
+1384434,Bangladesh,Australia,306,307,Australia
+1384435,England,Pakistan,337,244,England
+1384436,India,Netherlands,410,250,India
+1384437,India,New Zealand,397,327,India
+1384438,South Africa,Australia,212,215,Australia
+1384439,India,Australia,240,241,Australia
+1385700,England,Australia,315,317,Australia
+1385701,Australia,England,270,202,Australia
+1385702,Australia,England,304,254,Australia
+1385703,England,Australia,312,126,England
+1385704,England,Australia,309,165,England
+1387600,South Africa,India,116,117,India
+1387601,India,South Africa,211,215,South Africa
+1387602,India,South Africa,296,218,India
+1388211,Bangladesh,New Zealand,291,296,New Zealand
+1388212,New Zealand,Bangladesh,98,99,Bangladesh
+1388392,Pakistan,Nepal,342,104,Pakistan
+1388393,Bangladesh,Sri Lanka,164,165,Sri Lanka
+1388394,India,,266,,
+1388398,Nepal,India,230,147,Nepal
+1388401,Bangladesh,Pakistan,193,194,Pakistan
+1388403,Sri Lanka,Bangladesh,257,236,Sri Lanka
+1388406,India,Pakistan,356,128,India
+1388407,India,Sri Lanka,213,172,India
+1388410,Pakistan,Sri Lanka,252,252,Sri Lanka
+1388412,Bangladesh,India,265,259,Bangladesh
+1388414,Sri Lanka,India,50,51,India
+1389388,Australia,India,276,281,India
+1389389,India,Australia,399,217,India
+1389390,Australia,India,352,286,Australia
+1395700,New Zealand,,136,,
+1395701,New Zealand,Bangladesh,254,168,New Zealand
+1395702,Bangladesh,New Zealand,171,175,New Zealand
+1408102,New Zealand,Bangladesh,239,200,New Zealand
+1408106,Zimbabwe,,121,,
+1408107,Zimbabwe,Ireland,166,170,Ireland
+1408108,Zimbabwe,Ireland,197,204,Ireland
+1412539,Sri Lanka,Zimbabwe,273,12,Sri Lanka
+1412540,Zimbabwe,Sri Lanka,208,211,Sri Lanka
+1412541,Zimbabwe,Sri Lanka,96,97,Sri Lanka
+1419827,Sri Lanka,Bangladesh,255,257,Bangladesh
+1419828,Bangladesh,Sri Lanka,286,287,Sri Lanka
+1419829,Sri Lanka,Bangladesh,235,237,Bangladesh
+1420220,Nepal,Canada,224,217,Nepal
+1420221,Canada,Nepal,285,287,Nepal
+1420222,Canada,Nepal,232,229,Canada
+1420529,Nepal,Namibia,132,134,Namibia
+1420530,Netherlands,Nepal,137,141,Nepal
+1420531,Namibia,Netherlands,123,124,Netherlands
+1420532,Nepal,Namibia,168,172,Namibia
+1420533,Namibia,Netherlands,203,179,Namibia
+1420534,Nepal,Netherlands,172,173,Netherlands
+1421069,United Arab Emirates,Canada,194,198,Canada
+1421070,Scotland,Canada,215,220,Canada
+1421071,United Arab Emirates,Scotland,132,137,Scotland
+1421072,Canada,United Arab Emirates,241,228,Canada
+1421073,Scotland,Canada,197,200,Canada
+1421074,United Arab Emirates,Scotland,225,226,Scotland
+1426549,Pakistan,Australia,203,204,Australia
+1426550,Australia,Pakistan,163,169,Pakistan
+1426551,Australia,Pakistan,140,143,Pakistan
+1428956,Oman,Scotland,123,99,Oman
+1428957,Oman,Namibia,233,234,Namibia
+1428958,Scotland,Namibia,290,235,Scotland
+1428959,Oman,Scotland,91,95,Scotland
+1428960,Namibia,Oman,196,197,Oman
+1428961,Scotland,Namibia,301,163,Scotland
+1431088,South Africa,Ireland,271,132,South Africa
+1431089,South Africa,Ireland,343,169,South Africa
+1431090,Ireland,South Africa,284,215,Ireland
+1432214,South Africa,Pakistan,239,242,Pakistan
+1432215,Pakistan,South Africa,329,248,Pakistan
+1432216,Pakistan,South Africa,308,271,Pakistan
+1433370,England,West Indies,209,157,England
+1433371,West Indies,England,328,329,England
+1433372,England,West Indies,263,267,West Indies
+1433380,Bangladesh,West Indies,294,295,West Indies
+1433381,Bangladesh,West Indies,227,230,West Indies
+1433382,Bangladesh,West Indies,321,325,West Indies
+1439904,England,India,248,251,India
+1439905,England,India,304,308,India
+1439906,India,England,356,214,India
+1442220,New Zealand,Pakistan,330,252,New Zealand
+1442221,South Africa,New Zealand,304,308,New Zealand
+1442222,South Africa,Pakistan,352,355,Pakistan
+1442223,Pakistan,New Zealand,242,243,New Zealand
+1442990,Sri Lanka,India,230,230,India
+1442991,Sri Lanka,India,240,208,Sri Lanka
+1442992,Sri Lanka,India,248,138,Sri Lanka
+1443546,Sri Lanka,New Zealand,178,180,New Zealand
+1443547,New Zealand,Sri Lanka,255,142,New Zealand
+1443548,Sri Lanka,New Zealand,290,150,Sri Lanka
+1443554,New Zealand,Pakistan,344,271,New Zealand
+1443555,New Zealand,Pakistan,292,208,New Zealand
+1443556,New Zealand,Pakistan,264,221,New Zealand
+1444649,Zimbabwe,Pakistan,205,60,Zimbabwe
+1444650,Zimbabwe,Pakistan,145,148,Pakistan
+1444651,Pakistan,Zimbabwe,303,204,Pakistan
+1445034,Canada,Netherlands,194,195,Netherlands
+1445035,United States of America,Canada,304,290,United States of America
+1445036,Netherlands,United States of America,237,218,Netherlands
+1445037,Netherlands,Canada,220,157,Netherlands
+1445038,United States of America,Canada,275,225,United States of America
+1445039,Netherlands,United States of America,206,179,Netherlands
+1448343,England,West Indies,400,162,England
+1448344,West Indies,England,308,312,England
+1448345,West Indies,England,251,246,West Indies
+1448354,England,South Africa,131,137,South Africa
+1448355,South Africa,England,330,325,South Africa
+1448356,England,South Africa,414,72,England
+1450690,Namibia,United States of America,199,200,United States of America
+1450691,United Arab Emirates,United States of America,106,107,United States of America
+1450692,Namibia,United Arab Emirates,313,316,United Arab Emirates
+1450693,Namibia,United States of America,286,287,United States of America
+1450694,United States of America,United Arab Emirates,339,203,United States of America
+1450695,United Arab Emirates,Namibia,190,194,Namibia
+1450696,Canada,Nepal,253,150,Canada
+1450697,Nepal,Oman,220,223,Oman
+1450698,Canada,Oman,276,217,Canada
+1450699,Nepal,Canada,181,186,Canada
+1450701,Oman,Canada,198,199,Canada
+1450702,United States of America,Scotland,144,145,Scotland
+1450704,Scotland,Nepal,154,157,Nepal
+1450705,Scotland,United States of America,317,246,Scotland
+1450706,United States of America,Nepal,281,244,United States of America
+1450707,Nepal,,26,,
+1451817,West Indies,Sri Lanka,185,234,Sri Lanka
+1451818,West Indies,Sri Lanka,189,190,Sri Lanka
+1451819,Sri Lanka,West Indies,156,196,West Indies
+1456443,Sri Lanka,New Zealand,324,175,Sri Lanka
+1456444,New Zealand,Sri Lanka,209,210,Sri Lanka
+1456445,New Zealand,,112,,
+1457464,United Arab Emirates,Oman,128,129,Oman
+1457465,United Arab Emirates,Netherlands,240,214,United Arab Emirates
+1457466,Netherlands,Oman,132,133,Oman
+1457467,United Arab Emirates,Oman,78,79,Oman
+1457468,Netherlands,United Arab Emirates,241,174,Netherlands
+1457469,Oman,Netherlands,155,154,Oman
+1459908,Sri Lanka,Australia,214,165,Sri Lanka
+1466414,New Zealand,Pakistan,320,260,New Zealand
+1466415,Bangladesh,India,228,231,India
+1466417,England,Australia,351,356,Australia
+1466418,Pakistan,India,241,244,India
+1466419,Bangladesh,New Zealand,236,240,New Zealand
+1466424,England,South Africa,179,181,South Africa
+1466425,India,New Zealand,249,205,India
+1466426,Australia,India,264,267,India
+1466427,New Zealand,South Africa,362,312,New Zealand
+1466428,New Zealand,India,251,254,India
+1467701,Zimbabwe,Ireland,299,250,Zimbabwe
+1467702,Zimbabwe,Ireland,245,249,Ireland
+1467703,Ireland,Zimbabwe,240,246,Zimbabwe
+1468879,United States of America,Namibia,293,179,United States of America
+1468880,Namibia,Oman,169,146,Namibia
+1468881,United States of America,Oman,151,152,Oman
+1468882,United States of America,Namibia,268,198,United States of America
+1468883,Namibia,Oman,96,100,Oman
+1468884,United States of America,Oman,122,65,United States of America
+1469168,Sri Lanka,Australia,281,107,Sri Lanka
+1472511,Ireland,West Indies,303,179,Ireland
+1472512,West Indies,,352,,
+1472513,West Indies,Ireland,385,165,West Indies
+1472528,West Indies,Pakistan,280,284,Pakistan
+1472529,Pakistan,West Indies,171,184,West Indies
+1472530,West Indies,Pakistan,294,92,West Indies
+1474410,Netherlands,Namibia,159,106,Netherlands
+1474411,Canada,Namibia,167,174,Namibia
+1474413,Namibia,Netherlands,148,149,Netherlands
+1474414,Namibia,Canada,186,154,Namibia
+1478901,South Africa,Australia,296,198,South Africa
+1478902,South Africa,Australia,277,193,South Africa
+1478903,Australia,South Africa,431,155,Australia
+1478904,India,Australia,136,131,India
+1478905,India,Australia,264,265,Australia
+1478906,Australia,India,236,237,India
+1481530,Netherlands,United Arab Emirates,272,159,Netherlands
+1481531,United Arab Emirates,Scotland,296,199,United Arab Emirates
+1481532,Netherlands,Scotland,282,263,Netherlands
+1481533,United Arab Emirates,Netherlands,204,205,Netherlands
+1481534,United Arab Emirates,Scotland,161,162,Scotland
+1481535,Scotland,Netherlands,380,235,Scotland
+1482564,United States of America,Canada,361,192,United States of America
+1482565,Oman,Canada,217,202,Oman
+1482566,Oman,United States of America,266,266,United States of America
+1482567,Canada,Oman,212,108,Canada
+1482568,United States of America,Canada,286,198,United States of America
+1482569,United States of America,Oman,293,284,United States of America
+1485505,Sri Lanka,Bangladesh,244,167,Sri Lanka
+1485506,Bangladesh,Sri Lanka,248,232,Bangladesh
+1485507,Sri Lanka,Bangladesh,285,186,Sri Lanka
+1486772,Scotland,Nepal,296,297,Nepal
+1486773,Netherlands,Nepal,225,226,Nepal
+1486774,Scotland,Netherlands,262,218,Scotland
+1486775,Scotland,Nepal,323,321,Scotland
+1486776,Nepal,Netherlands,236,210,Nepal
+1486777,Scotland,Netherlands,369,374,Netherlands
+1491720,England,New Zealand,223,224,New Zealand
+1491721,England,New Zealand,175,177,New Zealand
+1491722,England,New Zealand,222,226,New Zealand
+1491728,New Zealand,West Indies,269,262,New Zealand
+1491729,West Indies,New Zealand,247,248,New Zealand
+1491730,West Indies,New Zealand,161,162,New Zealand
+1492821,Sri Lanka,Zimbabwe,298,291,Sri Lanka
+1492822,Zimbabwe,Sri Lanka,277,278,Sri Lanka
+1498181,Canada,Namibia,219,220,Namibia
+1498183,Canada,Scotland,184,187,Scotland
+1498184,Namibia,Canada,261,237,Namibia
+1498185,Scotland,Namibia,164,109,Scotland
+1501898,South Africa,Pakistan,263,264,Pakistan
+1501899,Pakistan,South Africa,269,270,South Africa
+1501900,South Africa,Pakistan,143,144,Pakistan
+1502167,Pakistan,Sri Lanka,299,293,Pakistan
+1502168,Sri Lanka,Pakistan,288,289,Pakistan
+1502169,Sri Lanka,Pakistan,211,215,Pakistan
+1505122,Bangladesh,West Indies,207,133,Bangladesh
+1505123,Bangladesh,West Indies,213,213,West Indies
+1505124,Bangladesh,West Indies,296,117,Bangladesh
+1507884,United States of America,Nepal,262,156,United States of America
+1507885,United Arab Emirates,United States of America,211,213,United States of America
+1507886,Nepal,United Arab Emirates,233,237,United Arab Emirates
+1507887,Nepal,United States of America,271,273,United States of America
+1507888,United States of America,United Arab Emirates,292,49,United States of America
+1507889,Nepal,United Arab Emirates,239,243,United Arab Emirates
