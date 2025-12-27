@@ -1,285 +1,280 @@
-# 🧠 LOW-LEVEL BLUEPRINT
+# 🏏 Cricket Match Prediction System (ODI)
 
-## Generic Cricket Match Prediction System (Any Team vs Any Team)
-
-## 1️⃣ Problem Definition
-
-### Objective
-
-Design a deep learning–based system that predicts:
-
-1. First-innings total score
-2. Win probability of Team A vs Team B
-3. Expected runs scored by each player
-
-The system works for **any international team vs any team** using historical data.
+> A complete, end-to-end deep learning project built from scratch using **Cricsheet data**, **PyTorch**, and **real cricket logic**.
 
 ---
 
-## 2️⃣ System Assumptions
+## 📌 Project Objective
 
-* Predictions are probabilistic, not exact
-* Playing XI is known before prediction
-* No live match data is used
-* Weather impact is approximated via venue history
+Build a **realistic and production-grade cricket analytics system** that can:
+
+* Predict **match win probability**
+* Learn **match momentum** from ball-by-ball data
+* Serve as a base for **score prediction** and **player performance modeling**
+
+This project strictly avoids:
+
+* Data leakage
+* Random shuffling of time-series
+* Unrealistic accuracy claims
 
 ---
 
-## 3️⃣ Data Sources (Raw Input Layer)
+## 🧠 Tech Stack
 
-### Data Types
+* **Language**: Python
+* **Framework**: PyTorch
+* **Data Source**: Cricsheet (YAML)
+* **Format**: ODI (50 overs)
+* **Notebook**: `app.ipynb`
 
-* Match-level data
-* Team-level statistics
-* Player-level innings data
+---
 
-### Example Fields
+## 📂 Project Structure
 
-* Match date
-* Teams
+```
+cricket-match-prediction/
+│
+├── data/
+│   ├── raw_yaml/
+│   ├── clean_ball_by_ball.csv
+│   ├── match_summary_valid.csv
+│   └── match_features_step5.csv
+│
+├── models/
+│   └── step6_win_predictor.pth
+│
+├── app.ipynb
+└── README.md
+```
+
+---
+
+## 🔵 STEP 1 — Raw Data Collection
+
+* Source: **Cricsheet.org**
+* Download ODI YAML files
+* Each file represents one match with full metadata and deliveries
+
+✔️ Trusted source
+✔️ Ball-by-ball accuracy
+
+---
+
+## 🔵 STEP 2 — YAML → Structured CSV Conversion
+
+### Output Files
+
+#### 1️⃣ `clean_ball_by_ball.csv`
+
+Per delivery information:
+
+```
+match_id, innings, batting_team, bowling_team,
+over, ball,
+batter, non_striker, bowler,
+runs_batter, runs_extras, runs_total,
+wicket, player_out
+```
+
+#### 2️⃣ `match_summary_valid.csv`
+
+Match-level summary:
+
+```
+match_id,
+team_1, team_2,
+team_1_runs, team_2_runs,
+winner,
+team_1_won
+```
+
+✔️ YAML winner parsed correctly
+✔️ `yaml_winner` column dropped later
+
+---
+
+## 🔵 STEP 3 — Data Cleaning & Validation
+
+Handled:
+
+* No-result / abandoned matches
+* Partial innings
+* Missing outcome information
+
+Decision:
+
+> Rain-abandoned matches are **naturally excluded** during sequence creation.
+
+---
+
+## 🔵 STEP 3.5 – 3.8 — Match Metadata Completion
+
+Additional features added:
+
+* Toss winner
+* Toss decision
 * Venue
-* Toss result
-* Innings scores
-* Player runs per match
+
+Ensured all matches have:
+
+* Valid teams
+* Valid outcomes
+* Consistent identifiers
 
 ---
 
-## 4️⃣ Data Storage Structure
+## 🔵 STEP 4 — Match-Level Feature Engineering
+
+Key features engineered:
+
+* `team_1_won_toss`
+* `team_1_batted_first` *(correctly derived from toss decision)*
+* Team average runs
+* Recent form averages
+* Venue encoding
+
+⚠️ Important correction:
+
+> Toss winner ≠ batting first (team may choose to bowl)
+
+---
+
+## 🔵 STEP 5 — Final Feature Dataset
+
+### File Created
 
 ```
-data/
- ├── matches.csv
- ├── teams.csv
- ├── players.csv
- ├── player_innings.csv
- └── venues.csv
+match_features_step5.csv
 ```
 
-Each file contains atomic (non-derived) values.
+### Used For
 
----
+* Baseline win prediction model
 
-## 5️⃣ Data Cleaning Pipeline
-
-1. Remove abandoned / no-result matches
-2. Standardize team names
-3. Standardize player names
-4. Remove records with missing innings data
-5. Sort all data chronologically
-
----
-
-## 6️⃣ Feature Engineering Layer
-
-### 6.1 Match-Level Features
-
-* Venue average first-innings score
-* Toss decision (bat/bowl → binary)
-* Match type encoding (ODI / T20)
-
----
-
-### 6.2 Team-Level Features
-
-Computed using last **N matches**:
-
-* Average runs scored
-* Average wickets lost
-* Bowling economy
-* Win rate
-
-(Rolling features, not lifetime averages)
-
----
-
-### 6.3 Player-Level Features
-
-Computed using last **N innings**:
-
-* Runs scored
-* Strike rate
-* Balls faced
-* Batting position
-
-Stored as ordered sequences.
-
----
-
-## 7️⃣ Feature Vector Construction
-
-### 7.1 Total Score Model
-
-**Input (X₁):**
+### Target Variable
 
 ```
-[
-  team_recent_scores_sequence,
-  venue_avg_score,
-  opponent_bowling_strength
-]
-```
-
-**Target (y₁):**
-
-```
-actual_first_innings_total
+team_1_won (0 or 1)
 ```
 
 ---
 
-### 7.2 Win Probability Model
+## 🔵 STEP 6 — Baseline Win Prediction (Feed-Forward NN)
 
-**Input (X₂):**
+### Model Type
 
-```
-[
-  predicted_score,
-  team_A_form,
-  team_B_form,
-  toss_result,
-  venue_stats
-]
-```
-
-**Target (y₂):**
+**Feed-Forward Neural Network (PyTorch)**
 
 ```
-match_winner (0 or 1)
+Input → Dense(64) → ReLU
+      → Dense(32) → ReLU
+      → Dense(1)  → Sigmoid
 ```
+
+### Training Details
+
+* Time-based train/test split
+* Feature normalization
+* Binary Cross Entropy loss
+
+### Performance
+
+* Accuracy ≈ **0.61** (realistic & honest)
+
+### Model Saved
+
+```
+models/step6_win_predictor.pth
+```
+
+Saved:
+
+* Model weights
+* Input dimension
+* Feature mean & std
 
 ---
 
-### 7.3 Player Runs Model
+## 🔵 STEP 7 — Sequence Modeling with LSTM (Momentum Learning)
 
-**Input (X₃):**
+### Purpose
 
-```
-[
-  player_last_N_innings_sequence,
-  batting_position,
-  opponent_bowling_strength
-]
-```
-
-**Target (y₃):**
-
-```
-player_runs
-```
+Introduce **time-awareness** using ball-by-ball sequences.
 
 ---
 
-## 8️⃣ Sequence Builder (for LSTM)
+## 🔵 STEP 7.1 — Define LSTM Training Sample
 
-* Sliding window approach
-* Maintain chronological order
-* No shuffling before sequence creation
+> **One training sample = early innings sequence → match outcome**
 
-Example:
+This enables:
 
-```
-[Match t-5, t-4, t-3, t-2, t-1] → Predict match t
-```
+* Live win prediction
+* Momentum understanding
 
 ---
 
-## 9️⃣ Model Architectures
+## 🔵 STEP 7.2 — ODI-Specific Sequence Creation
 
-### 9.1 Total Score Prediction Model
+### Design Choices
 
-**Type:** LSTM + Dense (Regression)
+* Format: **50-over ODI**
+* Overs used: **First 20 overs**
+* Balls per over: **6**
 
 ```
-Input Sequence
- → LSTM (hidden = 64)
- → Dropout (0.2)
- → Dense (32) + ReLU
- → Dense (1)
+Sequence length = 20 × 6 = 120 balls
 ```
 
-**Loss:** Mean Squared Error
+### Ball-Level Features
+
+```
+runs_total
+wicket
+over
+ball
+```
+
+### Tensor Shapes
+
+```
+X → (num_matches, 120, 4)
+y → (num_matches, 1)
+```
+
+### CSVs Used
+
+* `clean_ball_by_ball.csv`
+* `match_summary_valid.csv`
+
+### STEP 7.3
+
+* PyTorch LSTM architecture
+
+### STEP 7.4
+
+* LSTM training & evaluation
+
+### STEP 7.5
+
+* Compare Step 6 vs Step 7 performance
+
+### STEP 8 (Future)
+
+* Player-level LSTM
+* Score prediction
+* Ensemble models
 
 ---
 
-### 9.2 Win Probability Prediction Model
+## ✅ Project Principles
 
-**Type:** Feed-Forward Neural Network (Classification)
-
-```
-Input Vector
- → Dense (64) + ReLU
- → Dense (32) + ReLU
- → Dense (1) + Sigmoid
-```
-
-**Loss:** Binary Cross Entropy
+* No data leakage
+* Time-respecting splits
+* Realistic accuracy expectations
+* Cricket-first logic
 
 ---
 
-### 9.3 Player Runs Prediction Model
-
-**Type:** LSTM + Dense (Regression)
-
-```
-Input Sequence
- → LSTM (hidden = 64)
- → Dropout (0.2)
- → Dense (32) + ReLU
- → Dense (1)
-```
-
-**Loss:** Mean Absolute Error
-
----
-
-## 🔟 Training Strategy
-
-1. Time-based train/validation/test split
-2. Older matches → training
-3. Recent matches → testing
-4. Fixed random seed for reproducibility
-
----
-
-## 1️⃣1️⃣ Evaluation Metrics
-
-| Prediction Task | Metric        |
-| --------------- | ------------- |
-| Total score     | MAE, RMSE     |
-| Win probability | Accuracy, AUC |
-| Player runs     | MAE           |
-
----
-
-## 1️⃣2️⃣ Prediction Pipeline
-
-```
-User inputs match details
- → Fetch recent statistics
- → Build feature vectors
- → Run trained models
- → Aggregate predictions
- → Display results
-```
-
----
-
-## 1️⃣3️⃣ Final Outputs
-
-* Expected total score (with range)
-* Win probability for both teams
-* Expected runs per player
-
----
-
-## 1️⃣4️⃣ Deployment / Usage
-
-* Local execution (CPU)
-* Optional Streamlit UI
-* Prediction time < 3 seconds
-
----
-
-## 🧾 Summary
-
-The system follows a modular deep learning pipeline including data collection, preprocessing, feature engineering, and sequence modeling. LSTM architectures are used for time-dependent predictions such as total score and player performance, while a feed-forward neural network is used for win probability prediction based on aggregated match features. The system is generic and capable of predicting outcomes for any team versus any team using historical cricket data.
+> This project is designed to scale from research → production without architectural changes.
